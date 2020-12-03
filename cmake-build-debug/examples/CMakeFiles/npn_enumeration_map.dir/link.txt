@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -O2 -DNDEBUG -g  -Wl,--enable-auto-import CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o  -o npn_enumeration_map.exe -Wl,--out-implib,libnpn_enumeration_map.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ../lib/lpsolve/libliblpsolve.a -lm -ldl 

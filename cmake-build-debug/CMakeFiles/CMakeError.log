@@ -1,0 +1,15 @@
+Performing C++ SOURCE FILE Test HAS_FCOLOR_DIAGNOSTICS failed with the following output:
+Change Dir: /cygdrive/f/Project/kitty/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_161bf/fast && /usr/bin/make  -f CMakeFiles/cmTC_161bf.dir/build.make CMakeFiles/cmTC_161bf.dir/build
+make[1]: Entering directory '/cygdrive/f/Project/kitty/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_161bf.dir/src.cxx.o
+/usr/bin/c++.exe    -DHAS_FCOLOR_DIAGNOSTICS   -fcolor-diagnostics -o CMakeFiles/cmTC_161bf.dir/src.cxx.o -c /cygdrive/f/Project/kitty/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-fcolor-diagnostics'
+make[1]: *** [CMakeFiles/cmTC_161bf.dir/build.make:86: CMakeFiles/cmTC_161bf.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/cygdrive/f/Project/kitty/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_161bf/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

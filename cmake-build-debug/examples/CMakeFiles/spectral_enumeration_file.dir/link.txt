@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -O2 -DNDEBUG -g  -Wl,--enable-auto-import CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.o  -o spectral_enumeration_file.exe -Wl,--out-implib,libspectral_enumeration_file.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ../lib/lpsolve/libliblpsolve.a -lm -ldl 

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:work" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kitty" targetName="spectral_enumeration_fuller" />
+      <config projectName="kitty" targetName="isop" />
+      <config projectName="kitty" targetName="npn_enumeration_map" />
+      <config projectName="kitty" targetName="liblpsolve" />
+      <config projectName="kitty" targetName="gf16_inverse" />
+      <config projectName="kitty" targetName="run_tests_report" />
+      <config projectName="kitty" targetName="spectral_enumeration_file" />
+      <config projectName="kitty" targetName="spectral_enumeration" />
+      <config projectName="kitty" targetName="gtest_main" />
+      <config projectName="kitty" targetName="npn_enumeration" />
+      <config projectName="kitty" targetName="gtest" />
+      <config projectName="kitty" targetName="run_tests" />
+      <config projectName="kitty" targetName="spectral_enumeration_map" />
+      <config projectName="kitty" targetName="npn_random" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Cygwin" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Cygwin" GENERATION_OPTIONS="-DKITTY_TEST=ON .." />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="022c18d6-9b0a-42f8-a0d1-6a7e706777c6" name="Default Changelist" comment="start" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Cygwin" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3QP4Kvtplzyf1RbYnv0Paj8pi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="Google Test.run_tests">
+    <configuration name="TFI_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_PATTERN="TFI_test.*:TFI_test/*.*:*/TFI_test.*/*:*/TFI_test/*.*" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TFI_test.TF_OR" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_OR" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TFI_test.TF_negative_unate" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_negative_unate" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests_report" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests_report" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests_report" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gf16_inverse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="gf16_inverse" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="gf16_inverse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="gtest" CONFIG_NAME="Debug-Cygwin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="gtest_main" CONFIG_NAME="Debug-Cygwin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isop" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="isop" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="isop">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="liblpsolve" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="liblpsolve" CONFIG_NAME="Debug-Cygwin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="npn_enumeration" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="npn_enumeration" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="npn_enumeration">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="npn_enumeration_map" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="npn_enumeration_map" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="npn_enumeration_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="npn_random" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="npn_random" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="npn_random">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spectral_enumeration" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="spectral_enumeration" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="spectral_enumeration">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spectral_enumeration_file" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="spectral_enumeration_file" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="spectral_enumeration_file">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spectral_enumeration_fuller" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="spectral_enumeration_fuller" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="spectral_enumeration_fuller">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spectral_enumeration_map" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="spectral_enumeration_map" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="spectral_enumeration_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.gf16_inverse" />
+      <item itemvalue="CMake Application.isop" />
+      <item itemvalue="CMake Application.npn_enumeration" />
+      <item itemvalue="CMake Application.npn_enumeration_map" />
+      <item itemvalue="CMake Application.npn_random" />
+      <item itemvalue="CMake Application.spectral_enumeration" />
+      <item itemvalue="CMake Application.spectral_enumeration_file" />
+      <item itemvalue="CMake Application.spectral_enumeration_fuller" />
+      <item itemvalue="CMake Application.spectral_enumeration_map" />
+      <item itemvalue="CMake Application.liblpsolve" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.run_tests" />
+      <item itemvalue="Google Test.run_tests_report" />
+      <item itemvalue="Google Test.TFI_test.TF_OR" />
+      <item itemvalue="Google Test.TFI_test" />
+      <item itemvalue="Google Test.TFI_test.TF_negative_unate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.TFI_test.TF_OR" />
+        <item itemvalue="Google Test.TFI_test" />
+        <item itemvalue="Google Test.TFI_test.TF_negative_unate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="022c18d6-9b0a-42f8-a0d1-6a7e706777c6" name="Default Changelist" comment="" />
+      <created>1606823267999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606823267999</updated>
+      <workItem from="1606823269046" duration="2947000" />
+      <workItem from="1606984437851" duration="12101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="work" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="3273" height="413" key="GridCell.Tab.0.bottom" timestamp="1606997310985">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="413" key="GridCell.Tab.0.bottom/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
+    <state width="3273" height="413" key="GridCell.Tab.0.center" timestamp="1606997310985">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="413" key="GridCell.Tab.0.center/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
+    <state width="3273" height="413" key="GridCell.Tab.0.left" timestamp="1606997310985">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="413" key="GridCell.Tab.0.left/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
+    <state width="3273" height="413" key="GridCell.Tab.0.right" timestamp="1606997310985">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="413" key="GridCell.Tab.0.right/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
+    <state width="3273" height="508" key="GridCell.Tab.1.bottom" timestamp="1606996125994">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="508" key="GridCell.Tab.1.bottom/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
+    <state width="3273" height="508" key="GridCell.Tab.1.center" timestamp="1606996125994">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="508" key="GridCell.Tab.1.center/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
+    <state width="3273" height="508" key="GridCell.Tab.1.left" timestamp="1606996125994">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="508" key="GridCell.Tab.1.left/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
+    <state width="3273" height="508" key="GridCell.Tab.1.right" timestamp="1606996125994">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state width="3273" height="508" key="GridCell.Tab.1.right/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
+    <state x="862" y="318" key="SettingsEditor" timestamp="1606823384796">
+      <screen x="124" y="0" width="3316" height="1440" />
+    </state>
+    <state x="862" y="318" key="SettingsEditor/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606823384796" />
+  </component>
+</project>
