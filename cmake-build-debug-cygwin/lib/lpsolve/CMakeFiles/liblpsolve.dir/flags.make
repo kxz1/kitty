@@ -6,5 +6,5 @@ C_FLAGS = -g   -W -Wall -w -DYY_NEVER_INTERACTIVE -DPARSER_LP -DINVERSE_ACTIVE=I
 
 C_DEFINES = 
 
-C_INCLUDES = -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/colamd -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL -I/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL 
+C_INCLUDES = -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/colamd" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL" 
 

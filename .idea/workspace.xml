@@ -26,20 +26,20 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="kitty" targetName="spectral_enumeration_fuller" />
-      <config projectName="kitty" targetName="isop" />
       <config projectName="kitty" targetName="npn_enumeration_map" />
-      <config projectName="kitty" targetName="liblpsolve" />
-      <config projectName="kitty" targetName="gf16_inverse" />
-      <config projectName="kitty" targetName="run_tests_report" />
-      <config projectName="kitty" targetName="spectral_enumeration_file" />
-      <config projectName="kitty" targetName="spectral_enumeration" />
-      <config projectName="kitty" targetName="gtest_main" />
       <config projectName="kitty" targetName="npn_enumeration" />
-      <config projectName="kitty" targetName="gtest" />
       <config projectName="kitty" targetName="run_tests" />
-      <config projectName="kitty" targetName="spectral_enumeration_map" />
+      <config projectName="kitty" targetName="gtest_main" />
       <config projectName="kitty" targetName="npn_random" />
+      <config projectName="kitty" targetName="spectral_enumeration_file" />
+      <config projectName="kitty" targetName="liblpsolve" />
+      <config projectName="kitty" targetName="spectral_enumeration" />
+      <config projectName="kitty" targetName="spectral_enumeration_fuller" />
+      <config projectName="kitty" targetName="gtest" />
+      <config projectName="kitty" targetName="spectral_enumeration_map" />
+      <config projectName="kitty" targetName="run_tests_report" />
+      <config projectName="kitty" targetName="isop" />
+      <config projectName="kitty" targetName="gf16_inverse" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -73,20 +73,25 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
-  <component name="RunManager" selected="Google Test.run_tests">
-    <configuration name="TFI_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_PATTERN="TFI_test.*:TFI_test/*.*:*/TFI_test.*/*:*/TFI_test/*.*" TEST_MODE="PATTERN">
+  <component name="RunManager" selected="Google Test.TFI_test.TF_negative_unate">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TFI_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_PATTERN="TFI_test.*:TFI_test/*.*:*/TFI_test.*/*:*/TFI_test/*.*" TEST_MODE="PATTERN">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TFI_test.TF_OR" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_OR" TEST_MODE="SUITE_TEST">
+    <configuration name="TFI_test.TF_OR" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_OR" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TFI_test.TF_negative_unate" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_negative_unate" TEST_MODE="SUITE_TEST">
+    <configuration name="TFI_test.TF_negative_unate" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="run_tests" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="run_tests" TEST_CLASS="TFI_test" TEST_METHOD="TF_negative_unate" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
@@ -102,6 +107,11 @@
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="gf16_inverse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kitty" TARGET_NAME="gf16_inverse" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="kitty" RUN_TARGET_NAME="gf16_inverse">
@@ -164,11 +174,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="CMake Application.gf16_inverse" />
       <item itemvalue="CMake Application.isop" />
@@ -190,9 +195,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Google Test.TFI_test.TF_negative_unate" />
         <item itemvalue="Google Test.TFI_test.TF_OR" />
         <item itemvalue="Google Test.TFI_test" />
-        <item itemvalue="Google Test.TFI_test.TF_negative_unate" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +211,7 @@
       <updated>1606823267999</updated>
       <workItem from="1606823269046" duration="2947000" />
       <workItem from="1606984437851" duration="12101000" />
+      <workItem from="1607010519814" duration="12735000" />
     </task>
     <servers />
   </component>
@@ -237,41 +243,65 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="3273" height="413" key="GridCell.Tab.0.bottom" timestamp="1606997310985">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="241" key="GridCell.Tab.0.bottom" timestamp="1607025403646">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="413" key="GridCell.Tab.0.bottom/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
-    <state width="3273" height="413" key="GridCell.Tab.0.center" timestamp="1606997310985">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="241" key="GridCell.Tab.0.bottom/82.0.1286.912@82.0.1286.912" timestamp="1607025403646" />
+    <state width="1242" height="241" key="GridCell.Tab.0.center" timestamp="1607025403646">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="413" key="GridCell.Tab.0.center/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
-    <state width="3273" height="413" key="GridCell.Tab.0.left" timestamp="1606997310985">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="241" key="GridCell.Tab.0.center/82.0.1286.912@82.0.1286.912" timestamp="1607025403646" />
+    <state width="1242" height="241" key="GridCell.Tab.0.left" timestamp="1607025403646">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="413" key="GridCell.Tab.0.left/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
-    <state width="3273" height="413" key="GridCell.Tab.0.right" timestamp="1606997310985">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="241" key="GridCell.Tab.0.left/82.0.1286.912@82.0.1286.912" timestamp="1607025403646" />
+    <state width="1242" height="241" key="GridCell.Tab.0.right" timestamp="1607025403646">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="413" key="GridCell.Tab.0.right/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606997310985" />
-    <state width="3273" height="508" key="GridCell.Tab.1.bottom" timestamp="1606996125994">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="241" key="GridCell.Tab.0.right/82.0.1286.912@82.0.1286.912" timestamp="1607025403646" />
+    <state width="1242" height="297" key="GridCell.Tab.1.bottom" timestamp="1607025270788">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="508" key="GridCell.Tab.1.bottom/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
-    <state width="3273" height="508" key="GridCell.Tab.1.center" timestamp="1606996125994">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="297" key="GridCell.Tab.1.bottom/82.0.1286.912@82.0.1286.912" timestamp="1607025270788" />
+    <state width="1242" height="297" key="GridCell.Tab.1.center" timestamp="1607025270788">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="508" key="GridCell.Tab.1.center/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
-    <state width="3273" height="508" key="GridCell.Tab.1.left" timestamp="1606996125994">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="297" key="GridCell.Tab.1.center/82.0.1286.912@82.0.1286.912" timestamp="1607025270788" />
+    <state width="1242" height="297" key="GridCell.Tab.1.left" timestamp="1607025270788">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="508" key="GridCell.Tab.1.left/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
-    <state width="3273" height="508" key="GridCell.Tab.1.right" timestamp="1606996125994">
-      <screen x="124" y="0" width="3316" height="1440" />
+    <state width="1242" height="297" key="GridCell.Tab.1.left/82.0.1286.912@82.0.1286.912" timestamp="1607025270788" />
+    <state width="1242" height="297" key="GridCell.Tab.1.right" timestamp="1607025270788">
+      <screen x="82" y="0" width="1286" height="912" />
     </state>
     <state width="3273" height="508" key="GridCell.Tab.1.right/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606996125994" />
+    <state width="1242" height="297" key="GridCell.Tab.1.right/82.0.1286.912@82.0.1286.912" timestamp="1607025270788" />
     <state x="862" y="318" key="SettingsEditor" timestamp="1606823384796">
       <screen x="124" y="0" width="3316" height="1440" />
     </state>
     <state x="862" y="318" key="SettingsEditor/124.0.3316.1440/-3840.-370.1920.1040@124.0.3316.1440" timestamp="1606823384796" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/include/kitty/threshold_identification.hpp</url>
+          <line>158</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/include/kitty/threshold_identification.hpp</url>
+          <line>139</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

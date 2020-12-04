@@ -63,10 +63,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 # Include any dependencies generated for this target.
 include examples/CMakeFiles/spectral_enumeration.dir/depend.make
@@ -79,16 +79,16 @@ include examples/CMakeFiles/spectral_enumeration.dir/flags.make
 
 examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o: examples/CMakeFiles/spectral_enumeration.dir/flags.make
 examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o: ../examples/spectral_enumeration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o -c /cygdrive/f/Project/kitty/examples/spectral_enumeration.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration.cpp"
 
 examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/examples/spectral_enumeration.cpp > CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration.cpp" > CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i
 
 examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/examples/spectral_enumeration.cpp -o CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration.cpp" -o CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s
 
 # Object files for target spectral_enumeration
 spectral_enumeration_OBJECTS = \
@@ -101,8 +101,8 @@ examples/spectral_enumeration.exe: examples/CMakeFiles/spectral_enumeration.dir/
 examples/spectral_enumeration.exe: examples/CMakeFiles/spectral_enumeration.dir/build.make
 examples/spectral_enumeration.exe: lib/lpsolve/libliblpsolve.a
 examples/spectral_enumeration.exe: examples/CMakeFiles/spectral_enumeration.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable spectral_enumeration.exe"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/spectral_enumeration.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable spectral_enumeration.exe"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/spectral_enumeration.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 examples/CMakeFiles/spectral_enumeration.dir/build: examples/spectral_enumeration.exe
@@ -110,10 +110,10 @@ examples/CMakeFiles/spectral_enumeration.dir/build: examples/spectral_enumeratio
 .PHONY : examples/CMakeFiles/spectral_enumeration.dir/build
 
 examples/CMakeFiles/spectral_enumeration.dir/clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && $(CMAKE_COMMAND) -P CMakeFiles/spectral_enumeration.dir/cmake_clean.cmake
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && $(CMAKE_COMMAND) -P CMakeFiles/spectral_enumeration.dir/cmake_clean.cmake
 .PHONY : examples/CMakeFiles/spectral_enumeration.dir/clean
 
 examples/CMakeFiles/spectral_enumeration.dir/depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/f/Project/kitty /cygdrive/f/Project/kitty/examples /cygdrive/f/Project/kitty/cmake-build-debug-cygwin /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/spectral_enumeration.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/spectral_enumeration.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : examples/CMakeFiles/spectral_enumeration.dir/depend
 

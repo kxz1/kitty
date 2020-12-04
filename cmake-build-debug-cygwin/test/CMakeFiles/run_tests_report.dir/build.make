@@ -63,10 +63,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 # Include any dependencies generated for this target.
 include test/CMakeFiles/run_tests_report.dir/depend.make
@@ -79,289 +79,289 @@ include test/CMakeFiles/run_tests_report.dir/flags.make
 
 test/CMakeFiles/run_tests_report.dir/affine.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/affine.cpp.o: ../test/affine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object test/CMakeFiles/run_tests_report.dir/affine.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/affine.cpp.o -c /cygdrive/f/Project/kitty/test/affine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object test/CMakeFiles/run_tests_report.dir/affine.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/affine.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/affine.cpp"
 
 test/CMakeFiles/run_tests_report.dir/affine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/affine.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/affine.cpp > CMakeFiles/run_tests_report.dir/affine.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/affine.cpp" > CMakeFiles/run_tests_report.dir/affine.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/affine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/affine.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/affine.cpp -o CMakeFiles/run_tests_report.dir/affine.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/affine.cpp" -o CMakeFiles/run_tests_report.dir/affine.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o: ../test/algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/algorithm.cpp.o -c /cygdrive/f/Project/kitty/test/algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/algorithm.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/algorithm.cpp"
 
 test/CMakeFiles/run_tests_report.dir/algorithm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/algorithm.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/algorithm.cpp > CMakeFiles/run_tests_report.dir/algorithm.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/algorithm.cpp" > CMakeFiles/run_tests_report.dir/algorithm.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/algorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/algorithm.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/algorithm.cpp -o CMakeFiles/run_tests_report.dir/algorithm.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/algorithm.cpp" -o CMakeFiles/run_tests_report.dir/algorithm.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o: ../test/bit_operations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/bit_operations.cpp.o -c /cygdrive/f/Project/kitty/test/bit_operations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/bit_operations.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/bit_operations.cpp"
 
 test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/bit_operations.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/bit_operations.cpp > CMakeFiles/run_tests_report.dir/bit_operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/bit_operations.cpp" > CMakeFiles/run_tests_report.dir/bit_operations.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/bit_operations.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/bit_operations.cpp -o CMakeFiles/run_tests_report.dir/bit_operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/bit_operations.cpp" -o CMakeFiles/run_tests_report.dir/bit_operations.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/cnf.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/cnf.cpp.o: ../test/cnf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object test/CMakeFiles/run_tests_report.dir/cnf.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/cnf.cpp.o -c /cygdrive/f/Project/kitty/test/cnf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object test/CMakeFiles/run_tests_report.dir/cnf.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/cnf.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cnf.cpp"
 
 test/CMakeFiles/run_tests_report.dir/cnf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/cnf.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/cnf.cpp > CMakeFiles/run_tests_report.dir/cnf.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cnf.cpp" > CMakeFiles/run_tests_report.dir/cnf.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/cnf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/cnf.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/cnf.cpp -o CMakeFiles/run_tests_report.dir/cnf.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cnf.cpp" -o CMakeFiles/run_tests_report.dir/cnf.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/constructors.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/constructors.cpp.o: ../test/constructors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object test/CMakeFiles/run_tests_report.dir/constructors.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/constructors.cpp.o -c /cygdrive/f/Project/kitty/test/constructors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object test/CMakeFiles/run_tests_report.dir/constructors.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/constructors.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/constructors.cpp"
 
 test/CMakeFiles/run_tests_report.dir/constructors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/constructors.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/constructors.cpp > CMakeFiles/run_tests_report.dir/constructors.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/constructors.cpp" > CMakeFiles/run_tests_report.dir/constructors.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/constructors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/constructors.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/constructors.cpp -o CMakeFiles/run_tests_report.dir/constructors.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/constructors.cpp" -o CMakeFiles/run_tests_report.dir/constructors.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/cube.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/cube.cpp.o: ../test/cube.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object test/CMakeFiles/run_tests_report.dir/cube.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/cube.cpp.o -c /cygdrive/f/Project/kitty/test/cube.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object test/CMakeFiles/run_tests_report.dir/cube.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/cube.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cube.cpp"
 
 test/CMakeFiles/run_tests_report.dir/cube.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/cube.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/cube.cpp > CMakeFiles/run_tests_report.dir/cube.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cube.cpp" > CMakeFiles/run_tests_report.dir/cube.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/cube.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/cube.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/cube.cpp -o CMakeFiles/run_tests_report.dir/cube.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cube.cpp" -o CMakeFiles/run_tests_report.dir/cube.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o: ../test/decomposition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/decomposition.cpp.o -c /cygdrive/f/Project/kitty/test/decomposition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/decomposition.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/decomposition.cpp"
 
 test/CMakeFiles/run_tests_report.dir/decomposition.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/decomposition.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/decomposition.cpp > CMakeFiles/run_tests_report.dir/decomposition.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/decomposition.cpp" > CMakeFiles/run_tests_report.dir/decomposition.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/decomposition.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/decomposition.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/decomposition.cpp -o CMakeFiles/run_tests_report.dir/decomposition.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/decomposition.cpp" -o CMakeFiles/run_tests_report.dir/decomposition.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o: ../test/enumeration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/enumeration.cpp.o -c /cygdrive/f/Project/kitty/test/enumeration.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/enumeration.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/enumeration.cpp"
 
 test/CMakeFiles/run_tests_report.dir/enumeration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/enumeration.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/enumeration.cpp > CMakeFiles/run_tests_report.dir/enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/enumeration.cpp" > CMakeFiles/run_tests_report.dir/enumeration.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/enumeration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/enumeration.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/enumeration.cpp -o CMakeFiles/run_tests_report.dir/enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/enumeration.cpp" -o CMakeFiles/run_tests_report.dir/enumeration.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/hash.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/hash.cpp.o: ../test/hash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object test/CMakeFiles/run_tests_report.dir/hash.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/hash.cpp.o -c /cygdrive/f/Project/kitty/test/hash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object test/CMakeFiles/run_tests_report.dir/hash.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/hash.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/hash.cpp"
 
 test/CMakeFiles/run_tests_report.dir/hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/hash.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/hash.cpp > CMakeFiles/run_tests_report.dir/hash.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/hash.cpp" > CMakeFiles/run_tests_report.dir/hash.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/hash.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/hash.cpp -o CMakeFiles/run_tests_report.dir/hash.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/hash.cpp" -o CMakeFiles/run_tests_report.dir/hash.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/implicant.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/implicant.cpp.o: ../test/implicant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object test/CMakeFiles/run_tests_report.dir/implicant.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/implicant.cpp.o -c /cygdrive/f/Project/kitty/test/implicant.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object test/CMakeFiles/run_tests_report.dir/implicant.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/implicant.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/implicant.cpp"
 
 test/CMakeFiles/run_tests_report.dir/implicant.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/implicant.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/implicant.cpp > CMakeFiles/run_tests_report.dir/implicant.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/implicant.cpp" > CMakeFiles/run_tests_report.dir/implicant.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/implicant.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/implicant.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/implicant.cpp -o CMakeFiles/run_tests_report.dir/implicant.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/implicant.cpp" -o CMakeFiles/run_tests_report.dir/implicant.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/isop.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/isop.cpp.o: ../test/isop.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object test/CMakeFiles/run_tests_report.dir/isop.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/isop.cpp.o -c /cygdrive/f/Project/kitty/test/isop.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object test/CMakeFiles/run_tests_report.dir/isop.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/isop.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/isop.cpp"
 
 test/CMakeFiles/run_tests_report.dir/isop.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/isop.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/isop.cpp > CMakeFiles/run_tests_report.dir/isop.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/isop.cpp" > CMakeFiles/run_tests_report.dir/isop.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/isop.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/isop.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/isop.cpp -o CMakeFiles/run_tests_report.dir/isop.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/isop.cpp" -o CMakeFiles/run_tests_report.dir/isop.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/npn.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/npn.cpp.o: ../test/npn.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object test/CMakeFiles/run_tests_report.dir/npn.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/npn.cpp.o -c /cygdrive/f/Project/kitty/test/npn.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object test/CMakeFiles/run_tests_report.dir/npn.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/npn.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/npn.cpp"
 
 test/CMakeFiles/run_tests_report.dir/npn.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/npn.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/npn.cpp > CMakeFiles/run_tests_report.dir/npn.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/npn.cpp" > CMakeFiles/run_tests_report.dir/npn.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/npn.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/npn.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/npn.cpp -o CMakeFiles/run_tests_report.dir/npn.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/npn.cpp" -o CMakeFiles/run_tests_report.dir/npn.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/operations.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/operations.cpp.o: ../test/operations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object test/CMakeFiles/run_tests_report.dir/operations.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/operations.cpp.o -c /cygdrive/f/Project/kitty/test/operations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object test/CMakeFiles/run_tests_report.dir/operations.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/operations.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/operations.cpp"
 
 test/CMakeFiles/run_tests_report.dir/operations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/operations.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/operations.cpp > CMakeFiles/run_tests_report.dir/operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/operations.cpp" > CMakeFiles/run_tests_report.dir/operations.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/operations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/operations.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/operations.cpp -o CMakeFiles/run_tests_report.dir/operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/operations.cpp" -o CMakeFiles/run_tests_report.dir/operations.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o: ../test/partial_truth_table.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o -c /cygdrive/f/Project/kitty/test/partial_truth_table.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/partial_truth_table.cpp"
 
 test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/partial_truth_table.cpp > CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/partial_truth_table.cpp" > CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/partial_truth_table.cpp -o CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/partial_truth_table.cpp" -o CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/permutation.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/permutation.cpp.o: ../test/permutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object test/CMakeFiles/run_tests_report.dir/permutation.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/permutation.cpp.o -c /cygdrive/f/Project/kitty/test/permutation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object test/CMakeFiles/run_tests_report.dir/permutation.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/permutation.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/permutation.cpp"
 
 test/CMakeFiles/run_tests_report.dir/permutation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/permutation.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/permutation.cpp > CMakeFiles/run_tests_report.dir/permutation.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/permutation.cpp" > CMakeFiles/run_tests_report.dir/permutation.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/permutation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/permutation.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/permutation.cpp -o CMakeFiles/run_tests_report.dir/permutation.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/permutation.cpp" -o CMakeFiles/run_tests_report.dir/permutation.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/print.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/print.cpp.o: ../test/print.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object test/CMakeFiles/run_tests_report.dir/print.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/print.cpp.o -c /cygdrive/f/Project/kitty/test/print.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object test/CMakeFiles/run_tests_report.dir/print.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/print.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/print.cpp"
 
 test/CMakeFiles/run_tests_report.dir/print.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/print.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/print.cpp > CMakeFiles/run_tests_report.dir/print.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/print.cpp" > CMakeFiles/run_tests_report.dir/print.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/print.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/print.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/print.cpp -o CMakeFiles/run_tests_report.dir/print.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/print.cpp" -o CMakeFiles/run_tests_report.dir/print.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/properties.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/properties.cpp.o: ../test/properties.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object test/CMakeFiles/run_tests_report.dir/properties.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/properties.cpp.o -c /cygdrive/f/Project/kitty/test/properties.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object test/CMakeFiles/run_tests_report.dir/properties.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/properties.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/properties.cpp"
 
 test/CMakeFiles/run_tests_report.dir/properties.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/properties.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/properties.cpp > CMakeFiles/run_tests_report.dir/properties.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/properties.cpp" > CMakeFiles/run_tests_report.dir/properties.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/properties.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/properties.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/properties.cpp -o CMakeFiles/run_tests_report.dir/properties.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/properties.cpp" -o CMakeFiles/run_tests_report.dir/properties.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/spectral.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/spectral.cpp.o: ../test/spectral.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object test/CMakeFiles/run_tests_report.dir/spectral.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/spectral.cpp.o -c /cygdrive/f/Project/kitty/test/spectral.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object test/CMakeFiles/run_tests_report.dir/spectral.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/spectral.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spectral.cpp"
 
 test/CMakeFiles/run_tests_report.dir/spectral.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/spectral.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/spectral.cpp > CMakeFiles/run_tests_report.dir/spectral.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spectral.cpp" > CMakeFiles/run_tests_report.dir/spectral.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/spectral.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/spectral.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/spectral.cpp -o CMakeFiles/run_tests_report.dir/spectral.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spectral.cpp" -o CMakeFiles/run_tests_report.dir/spectral.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/spp.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/spp.cpp.o: ../test/spp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object test/CMakeFiles/run_tests_report.dir/spp.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/spp.cpp.o -c /cygdrive/f/Project/kitty/test/spp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object test/CMakeFiles/run_tests_report.dir/spp.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/spp.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spp.cpp"
 
 test/CMakeFiles/run_tests_report.dir/spp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/spp.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/spp.cpp > CMakeFiles/run_tests_report.dir/spp.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spp.cpp" > CMakeFiles/run_tests_report.dir/spp.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/spp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/spp.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/spp.cpp -o CMakeFiles/run_tests_report.dir/spp.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spp.cpp" -o CMakeFiles/run_tests_report.dir/spp.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/tests.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/tests.cpp.o: ../test/tests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object test/CMakeFiles/run_tests_report.dir/tests.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/tests.cpp.o -c /cygdrive/f/Project/kitty/test/tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object test/CMakeFiles/run_tests_report.dir/tests.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/tests.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/tests.cpp"
 
 test/CMakeFiles/run_tests_report.dir/tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/tests.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/tests.cpp > CMakeFiles/run_tests_report.dir/tests.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/tests.cpp" > CMakeFiles/run_tests_report.dir/tests.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/tests.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/tests.cpp -o CMakeFiles/run_tests_report.dir/tests.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/tests.cpp" -o CMakeFiles/run_tests_report.dir/tests.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o: ../test/threshold_identification.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o -c /cygdrive/f/Project/kitty/test/threshold_identification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/threshold_identification.cpp"
 
 test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/threshold_identification.cpp > CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/threshold_identification.cpp" > CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/threshold_identification.cpp -o CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/threshold_identification.cpp" -o CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s
 
 test/CMakeFiles/run_tests_report.dir/traits.cpp.o: test/CMakeFiles/run_tests_report.dir/flags.make
 test/CMakeFiles/run_tests_report.dir/traits.cpp.o: ../test/traits.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object test/CMakeFiles/run_tests_report.dir/traits.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/traits.cpp.o -c /cygdrive/f/Project/kitty/test/traits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object test/CMakeFiles/run_tests_report.dir/traits.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run_tests_report.dir/traits.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/traits.cpp"
 
 test/CMakeFiles/run_tests_report.dir/traits.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run_tests_report.dir/traits.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/traits.cpp > CMakeFiles/run_tests_report.dir/traits.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/traits.cpp" > CMakeFiles/run_tests_report.dir/traits.cpp.i
 
 test/CMakeFiles/run_tests_report.dir/traits.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run_tests_report.dir/traits.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/traits.cpp -o CMakeFiles/run_tests_report.dir/traits.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/traits.cpp" -o CMakeFiles/run_tests_report.dir/traits.cpp.s
 
 # Object files for target run_tests_report
 run_tests_report_OBJECTS = \
@@ -417,8 +417,8 @@ test/run_tests_report.exe: test/CMakeFiles/run_tests_report.dir/build.make
 test/run_tests_report.exe: lib/libgtestd.a
 test/run_tests_report.exe: lib/lpsolve/libliblpsolve.a
 test/run_tests_report.exe: test/CMakeFiles/run_tests_report.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable run_tests_report.exe"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/run_tests_report.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable run_tests_report.exe"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/run_tests_report.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 test/CMakeFiles/run_tests_report.dir/build: test/run_tests_report.exe
@@ -426,10 +426,10 @@ test/CMakeFiles/run_tests_report.dir/build: test/run_tests_report.exe
 .PHONY : test/CMakeFiles/run_tests_report.dir/build
 
 test/CMakeFiles/run_tests_report.dir/clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test && $(CMAKE_COMMAND) -P CMakeFiles/run_tests_report.dir/cmake_clean.cmake
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" && $(CMAKE_COMMAND) -P CMakeFiles/run_tests_report.dir/cmake_clean.cmake
 .PHONY : test/CMakeFiles/run_tests_report.dir/clean
 
 test/CMakeFiles/run_tests_report.dir/depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/f/Project/kitty /cygdrive/f/Project/kitty/test /cygdrive/f/Project/kitty/cmake-build-debug-cygwin /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/CMakeFiles/run_tests_report.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/CMakeFiles/run_tests_report.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : test/CMakeFiles/run_tests_report.dir/depend
 

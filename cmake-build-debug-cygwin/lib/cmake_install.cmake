@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/f/Project/kitty/lib
+# Install script for directory: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/cmake_install.cmake")
+  include("/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/cmake_install.cmake")
 
 endif()
 

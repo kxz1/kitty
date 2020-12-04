@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/f/Project/kitty
+# Install script for directory: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,10 +34,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/include/cmake_install.cmake")
-  include("/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/cmake_install.cmake")
-  include("/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/cmake_install.cmake")
-  include("/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/cmake_install.cmake")
+  include("/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/include/cmake_install.cmake")
+  include("/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/cmake_install.cmake")
+  include("/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/cmake_install.cmake")
+  include("/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/cmake_install.cmake")
 
 endif()
 
@@ -49,5 +49,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

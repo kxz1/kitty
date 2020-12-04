@@ -68,10 +68,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,14 +100,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/CMakeFiles/progress.marks
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/CMakeFiles/progress.marks"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/clean
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/clean
 .PHONY : clean
 
 # The main clean target
@@ -117,22 +117,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lib/lpsolve/CMakeFiles/liblpsolve.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/CMakeFiles/liblpsolve.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/lpsolve/CMakeFiles/liblpsolve.dir/rule
 .PHONY : lib/lpsolve/CMakeFiles/liblpsolve.dir/rule
 
 # Convenience name for target.
@@ -142,7 +142,7 @@ liblpsolve: lib/lpsolve/CMakeFiles/liblpsolve.dir/rule
 
 # fast build rule for target.
 liblpsolve/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/build
 .PHONY : liblpsolve/fast
 
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.o: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o
@@ -151,7 +151,7 @@ lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.o: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o
 
 # target to build an object file
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o
 .PHONY : lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.o
 
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.i: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i
@@ -160,7 +160,7 @@ lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.i: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i
 
 # target to preprocess a source file
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i
 .PHONY : lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.i
 
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.s: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s
@@ -169,7 +169,7 @@ lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.s: lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s
 
 # target to generate assembly for a file
 lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s
 .PHONY : lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c.s
 
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.o: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o
@@ -178,7 +178,7 @@ lpsolve/bfp/bfp_LUSOL/lp_LUSOL.o: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o
 
 # target to build an object file
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o
 .PHONY : lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.o
 
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.i: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i
@@ -187,7 +187,7 @@ lpsolve/bfp/bfp_LUSOL/lp_LUSOL.i: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i
 
 # target to preprocess a source file
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i
 .PHONY : lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.i
 
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.s: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s
@@ -196,7 +196,7 @@ lpsolve/bfp/bfp_LUSOL/lp_LUSOL.s: lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s
 
 # target to generate assembly for a file
 lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s
 .PHONY : lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c.s
 
 lpsolve/colamd/colamd.o: lpsolve/colamd/colamd.c.o
@@ -205,7 +205,7 @@ lpsolve/colamd/colamd.o: lpsolve/colamd/colamd.c.o
 
 # target to build an object file
 lpsolve/colamd/colamd.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.o
 .PHONY : lpsolve/colamd/colamd.c.o
 
 lpsolve/colamd/colamd.i: lpsolve/colamd/colamd.c.i
@@ -214,7 +214,7 @@ lpsolve/colamd/colamd.i: lpsolve/colamd/colamd.c.i
 
 # target to preprocess a source file
 lpsolve/colamd/colamd.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.i
 .PHONY : lpsolve/colamd/colamd.c.i
 
 lpsolve/colamd/colamd.s: lpsolve/colamd/colamd.c.s
@@ -223,7 +223,7 @@ lpsolve/colamd/colamd.s: lpsolve/colamd/colamd.c.s
 
 # target to generate assembly for a file
 lpsolve/colamd/colamd.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/colamd/colamd.c.s
 .PHONY : lpsolve/colamd/colamd.c.s
 
 lpsolve/fortify.o: lpsolve/fortify.c.o
@@ -232,7 +232,7 @@ lpsolve/fortify.o: lpsolve/fortify.c.o
 
 # target to build an object file
 lpsolve/fortify.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.o
 .PHONY : lpsolve/fortify.c.o
 
 lpsolve/fortify.i: lpsolve/fortify.c.i
@@ -241,7 +241,7 @@ lpsolve/fortify.i: lpsolve/fortify.c.i
 
 # target to preprocess a source file
 lpsolve/fortify.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.i
 .PHONY : lpsolve/fortify.c.i
 
 lpsolve/fortify.s: lpsolve/fortify.c.s
@@ -250,7 +250,7 @@ lpsolve/fortify.s: lpsolve/fortify.c.s
 
 # target to generate assembly for a file
 lpsolve/fortify.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/fortify.c.s
 .PHONY : lpsolve/fortify.c.s
 
 lpsolve/ini.o: lpsolve/ini.c.o
@@ -259,7 +259,7 @@ lpsolve/ini.o: lpsolve/ini.c.o
 
 # target to build an object file
 lpsolve/ini.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.o
 .PHONY : lpsolve/ini.c.o
 
 lpsolve/ini.i: lpsolve/ini.c.i
@@ -268,7 +268,7 @@ lpsolve/ini.i: lpsolve/ini.c.i
 
 # target to preprocess a source file
 lpsolve/ini.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.i
 .PHONY : lpsolve/ini.c.i
 
 lpsolve/ini.s: lpsolve/ini.c.s
@@ -277,7 +277,7 @@ lpsolve/ini.s: lpsolve/ini.c.s
 
 # target to generate assembly for a file
 lpsolve/ini.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/ini.c.s
 .PHONY : lpsolve/ini.c.s
 
 lpsolve/lp_Hash.o: lpsolve/lp_Hash.c.o
@@ -286,7 +286,7 @@ lpsolve/lp_Hash.o: lpsolve/lp_Hash.c.o
 
 # target to build an object file
 lpsolve/lp_Hash.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.o
 .PHONY : lpsolve/lp_Hash.c.o
 
 lpsolve/lp_Hash.i: lpsolve/lp_Hash.c.i
@@ -295,7 +295,7 @@ lpsolve/lp_Hash.i: lpsolve/lp_Hash.c.i
 
 # target to preprocess a source file
 lpsolve/lp_Hash.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.i
 .PHONY : lpsolve/lp_Hash.c.i
 
 lpsolve/lp_Hash.s: lpsolve/lp_Hash.c.s
@@ -304,7 +304,7 @@ lpsolve/lp_Hash.s: lpsolve/lp_Hash.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_Hash.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_Hash.c.s
 .PHONY : lpsolve/lp_Hash.c.s
 
 lpsolve/lp_MDO.o: lpsolve/lp_MDO.c.o
@@ -313,7 +313,7 @@ lpsolve/lp_MDO.o: lpsolve/lp_MDO.c.o
 
 # target to build an object file
 lpsolve/lp_MDO.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.o
 .PHONY : lpsolve/lp_MDO.c.o
 
 lpsolve/lp_MDO.i: lpsolve/lp_MDO.c.i
@@ -322,7 +322,7 @@ lpsolve/lp_MDO.i: lpsolve/lp_MDO.c.i
 
 # target to preprocess a source file
 lpsolve/lp_MDO.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.i
 .PHONY : lpsolve/lp_MDO.c.i
 
 lpsolve/lp_MDO.s: lpsolve/lp_MDO.c.s
@@ -331,7 +331,7 @@ lpsolve/lp_MDO.s: lpsolve/lp_MDO.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_MDO.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MDO.c.s
 .PHONY : lpsolve/lp_MDO.c.s
 
 lpsolve/lp_MPS.o: lpsolve/lp_MPS.c.o
@@ -340,7 +340,7 @@ lpsolve/lp_MPS.o: lpsolve/lp_MPS.c.o
 
 # target to build an object file
 lpsolve/lp_MPS.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.o
 .PHONY : lpsolve/lp_MPS.c.o
 
 lpsolve/lp_MPS.i: lpsolve/lp_MPS.c.i
@@ -349,7 +349,7 @@ lpsolve/lp_MPS.i: lpsolve/lp_MPS.c.i
 
 # target to preprocess a source file
 lpsolve/lp_MPS.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.i
 .PHONY : lpsolve/lp_MPS.c.i
 
 lpsolve/lp_MPS.s: lpsolve/lp_MPS.c.s
@@ -358,7 +358,7 @@ lpsolve/lp_MPS.s: lpsolve/lp_MPS.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_MPS.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_MPS.c.s
 .PHONY : lpsolve/lp_MPS.c.s
 
 lpsolve/lp_SOS.o: lpsolve/lp_SOS.c.o
@@ -367,7 +367,7 @@ lpsolve/lp_SOS.o: lpsolve/lp_SOS.c.o
 
 # target to build an object file
 lpsolve/lp_SOS.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.o
 .PHONY : lpsolve/lp_SOS.c.o
 
 lpsolve/lp_SOS.i: lpsolve/lp_SOS.c.i
@@ -376,7 +376,7 @@ lpsolve/lp_SOS.i: lpsolve/lp_SOS.c.i
 
 # target to preprocess a source file
 lpsolve/lp_SOS.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.i
 .PHONY : lpsolve/lp_SOS.c.i
 
 lpsolve/lp_SOS.s: lpsolve/lp_SOS.c.s
@@ -385,7 +385,7 @@ lpsolve/lp_SOS.s: lpsolve/lp_SOS.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_SOS.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_SOS.c.s
 .PHONY : lpsolve/lp_SOS.c.s
 
 lpsolve/lp_crash.o: lpsolve/lp_crash.c.o
@@ -394,7 +394,7 @@ lpsolve/lp_crash.o: lpsolve/lp_crash.c.o
 
 # target to build an object file
 lpsolve/lp_crash.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.o
 .PHONY : lpsolve/lp_crash.c.o
 
 lpsolve/lp_crash.i: lpsolve/lp_crash.c.i
@@ -403,7 +403,7 @@ lpsolve/lp_crash.i: lpsolve/lp_crash.c.i
 
 # target to preprocess a source file
 lpsolve/lp_crash.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.i
 .PHONY : lpsolve/lp_crash.c.i
 
 lpsolve/lp_crash.s: lpsolve/lp_crash.c.s
@@ -412,7 +412,7 @@ lpsolve/lp_crash.s: lpsolve/lp_crash.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_crash.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_crash.c.s
 .PHONY : lpsolve/lp_crash.c.s
 
 lpsolve/lp_lib.o: lpsolve/lp_lib.c.o
@@ -421,7 +421,7 @@ lpsolve/lp_lib.o: lpsolve/lp_lib.c.o
 
 # target to build an object file
 lpsolve/lp_lib.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.o
 .PHONY : lpsolve/lp_lib.c.o
 
 lpsolve/lp_lib.i: lpsolve/lp_lib.c.i
@@ -430,7 +430,7 @@ lpsolve/lp_lib.i: lpsolve/lp_lib.c.i
 
 # target to preprocess a source file
 lpsolve/lp_lib.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.i
 .PHONY : lpsolve/lp_lib.c.i
 
 lpsolve/lp_lib.s: lpsolve/lp_lib.c.s
@@ -439,7 +439,7 @@ lpsolve/lp_lib.s: lpsolve/lp_lib.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_lib.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_lib.c.s
 .PHONY : lpsolve/lp_lib.c.s
 
 lpsolve/lp_matrix.o: lpsolve/lp_matrix.c.o
@@ -448,7 +448,7 @@ lpsolve/lp_matrix.o: lpsolve/lp_matrix.c.o
 
 # target to build an object file
 lpsolve/lp_matrix.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.o
 .PHONY : lpsolve/lp_matrix.c.o
 
 lpsolve/lp_matrix.i: lpsolve/lp_matrix.c.i
@@ -457,7 +457,7 @@ lpsolve/lp_matrix.i: lpsolve/lp_matrix.c.i
 
 # target to preprocess a source file
 lpsolve/lp_matrix.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.i
 .PHONY : lpsolve/lp_matrix.c.i
 
 lpsolve/lp_matrix.s: lpsolve/lp_matrix.c.s
@@ -466,7 +466,7 @@ lpsolve/lp_matrix.s: lpsolve/lp_matrix.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_matrix.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_matrix.c.s
 .PHONY : lpsolve/lp_matrix.c.s
 
 lpsolve/lp_mipbb.o: lpsolve/lp_mipbb.c.o
@@ -475,7 +475,7 @@ lpsolve/lp_mipbb.o: lpsolve/lp_mipbb.c.o
 
 # target to build an object file
 lpsolve/lp_mipbb.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.o
 .PHONY : lpsolve/lp_mipbb.c.o
 
 lpsolve/lp_mipbb.i: lpsolve/lp_mipbb.c.i
@@ -484,7 +484,7 @@ lpsolve/lp_mipbb.i: lpsolve/lp_mipbb.c.i
 
 # target to preprocess a source file
 lpsolve/lp_mipbb.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.i
 .PHONY : lpsolve/lp_mipbb.c.i
 
 lpsolve/lp_mipbb.s: lpsolve/lp_mipbb.c.s
@@ -493,7 +493,7 @@ lpsolve/lp_mipbb.s: lpsolve/lp_mipbb.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_mipbb.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_mipbb.c.s
 .PHONY : lpsolve/lp_mipbb.c.s
 
 lpsolve/lp_params.o: lpsolve/lp_params.c.o
@@ -502,7 +502,7 @@ lpsolve/lp_params.o: lpsolve/lp_params.c.o
 
 # target to build an object file
 lpsolve/lp_params.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.o
 .PHONY : lpsolve/lp_params.c.o
 
 lpsolve/lp_params.i: lpsolve/lp_params.c.i
@@ -511,7 +511,7 @@ lpsolve/lp_params.i: lpsolve/lp_params.c.i
 
 # target to preprocess a source file
 lpsolve/lp_params.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.i
 .PHONY : lpsolve/lp_params.c.i
 
 lpsolve/lp_params.s: lpsolve/lp_params.c.s
@@ -520,7 +520,7 @@ lpsolve/lp_params.s: lpsolve/lp_params.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_params.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_params.c.s
 .PHONY : lpsolve/lp_params.c.s
 
 lpsolve/lp_presolve.o: lpsolve/lp_presolve.c.o
@@ -529,7 +529,7 @@ lpsolve/lp_presolve.o: lpsolve/lp_presolve.c.o
 
 # target to build an object file
 lpsolve/lp_presolve.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.o
 .PHONY : lpsolve/lp_presolve.c.o
 
 lpsolve/lp_presolve.i: lpsolve/lp_presolve.c.i
@@ -538,7 +538,7 @@ lpsolve/lp_presolve.i: lpsolve/lp_presolve.c.i
 
 # target to preprocess a source file
 lpsolve/lp_presolve.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.i
 .PHONY : lpsolve/lp_presolve.c.i
 
 lpsolve/lp_presolve.s: lpsolve/lp_presolve.c.s
@@ -547,7 +547,7 @@ lpsolve/lp_presolve.s: lpsolve/lp_presolve.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_presolve.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_presolve.c.s
 .PHONY : lpsolve/lp_presolve.c.s
 
 lpsolve/lp_price.o: lpsolve/lp_price.c.o
@@ -556,7 +556,7 @@ lpsolve/lp_price.o: lpsolve/lp_price.c.o
 
 # target to build an object file
 lpsolve/lp_price.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.o
 .PHONY : lpsolve/lp_price.c.o
 
 lpsolve/lp_price.i: lpsolve/lp_price.c.i
@@ -565,7 +565,7 @@ lpsolve/lp_price.i: lpsolve/lp_price.c.i
 
 # target to preprocess a source file
 lpsolve/lp_price.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.i
 .PHONY : lpsolve/lp_price.c.i
 
 lpsolve/lp_price.s: lpsolve/lp_price.c.s
@@ -574,7 +574,7 @@ lpsolve/lp_price.s: lpsolve/lp_price.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_price.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_price.c.s
 .PHONY : lpsolve/lp_price.c.s
 
 lpsolve/lp_pricePSE.o: lpsolve/lp_pricePSE.c.o
@@ -583,7 +583,7 @@ lpsolve/lp_pricePSE.o: lpsolve/lp_pricePSE.c.o
 
 # target to build an object file
 lpsolve/lp_pricePSE.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.o
 .PHONY : lpsolve/lp_pricePSE.c.o
 
 lpsolve/lp_pricePSE.i: lpsolve/lp_pricePSE.c.i
@@ -592,7 +592,7 @@ lpsolve/lp_pricePSE.i: lpsolve/lp_pricePSE.c.i
 
 # target to preprocess a source file
 lpsolve/lp_pricePSE.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.i
 .PHONY : lpsolve/lp_pricePSE.c.i
 
 lpsolve/lp_pricePSE.s: lpsolve/lp_pricePSE.c.s
@@ -601,7 +601,7 @@ lpsolve/lp_pricePSE.s: lpsolve/lp_pricePSE.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_pricePSE.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_pricePSE.c.s
 .PHONY : lpsolve/lp_pricePSE.c.s
 
 lpsolve/lp_report.o: lpsolve/lp_report.c.o
@@ -610,7 +610,7 @@ lpsolve/lp_report.o: lpsolve/lp_report.c.o
 
 # target to build an object file
 lpsolve/lp_report.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.o
 .PHONY : lpsolve/lp_report.c.o
 
 lpsolve/lp_report.i: lpsolve/lp_report.c.i
@@ -619,7 +619,7 @@ lpsolve/lp_report.i: lpsolve/lp_report.c.i
 
 # target to preprocess a source file
 lpsolve/lp_report.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.i
 .PHONY : lpsolve/lp_report.c.i
 
 lpsolve/lp_report.s: lpsolve/lp_report.c.s
@@ -628,7 +628,7 @@ lpsolve/lp_report.s: lpsolve/lp_report.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_report.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_report.c.s
 .PHONY : lpsolve/lp_report.c.s
 
 lpsolve/lp_rlp.o: lpsolve/lp_rlp.c.o
@@ -637,7 +637,7 @@ lpsolve/lp_rlp.o: lpsolve/lp_rlp.c.o
 
 # target to build an object file
 lpsolve/lp_rlp.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.o
 .PHONY : lpsolve/lp_rlp.c.o
 
 lpsolve/lp_rlp.i: lpsolve/lp_rlp.c.i
@@ -646,7 +646,7 @@ lpsolve/lp_rlp.i: lpsolve/lp_rlp.c.i
 
 # target to preprocess a source file
 lpsolve/lp_rlp.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.i
 .PHONY : lpsolve/lp_rlp.c.i
 
 lpsolve/lp_rlp.s: lpsolve/lp_rlp.c.s
@@ -655,7 +655,7 @@ lpsolve/lp_rlp.s: lpsolve/lp_rlp.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_rlp.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_rlp.c.s
 .PHONY : lpsolve/lp_rlp.c.s
 
 lpsolve/lp_scale.o: lpsolve/lp_scale.c.o
@@ -664,7 +664,7 @@ lpsolve/lp_scale.o: lpsolve/lp_scale.c.o
 
 # target to build an object file
 lpsolve/lp_scale.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.o
 .PHONY : lpsolve/lp_scale.c.o
 
 lpsolve/lp_scale.i: lpsolve/lp_scale.c.i
@@ -673,7 +673,7 @@ lpsolve/lp_scale.i: lpsolve/lp_scale.c.i
 
 # target to preprocess a source file
 lpsolve/lp_scale.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.i
 .PHONY : lpsolve/lp_scale.c.i
 
 lpsolve/lp_scale.s: lpsolve/lp_scale.c.s
@@ -682,7 +682,7 @@ lpsolve/lp_scale.s: lpsolve/lp_scale.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_scale.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_scale.c.s
 .PHONY : lpsolve/lp_scale.c.s
 
 lpsolve/lp_simplex.o: lpsolve/lp_simplex.c.o
@@ -691,7 +691,7 @@ lpsolve/lp_simplex.o: lpsolve/lp_simplex.c.o
 
 # target to build an object file
 lpsolve/lp_simplex.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.o
 .PHONY : lpsolve/lp_simplex.c.o
 
 lpsolve/lp_simplex.i: lpsolve/lp_simplex.c.i
@@ -700,7 +700,7 @@ lpsolve/lp_simplex.i: lpsolve/lp_simplex.c.i
 
 # target to preprocess a source file
 lpsolve/lp_simplex.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.i
 .PHONY : lpsolve/lp_simplex.c.i
 
 lpsolve/lp_simplex.s: lpsolve/lp_simplex.c.s
@@ -709,7 +709,7 @@ lpsolve/lp_simplex.s: lpsolve/lp_simplex.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_simplex.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_simplex.c.s
 .PHONY : lpsolve/lp_simplex.c.s
 
 lpsolve/lp_utils.o: lpsolve/lp_utils.c.o
@@ -718,7 +718,7 @@ lpsolve/lp_utils.o: lpsolve/lp_utils.c.o
 
 # target to build an object file
 lpsolve/lp_utils.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.o
 .PHONY : lpsolve/lp_utils.c.o
 
 lpsolve/lp_utils.i: lpsolve/lp_utils.c.i
@@ -727,7 +727,7 @@ lpsolve/lp_utils.i: lpsolve/lp_utils.c.i
 
 # target to preprocess a source file
 lpsolve/lp_utils.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.i
 .PHONY : lpsolve/lp_utils.c.i
 
 lpsolve/lp_utils.s: lpsolve/lp_utils.c.s
@@ -736,7 +736,7 @@ lpsolve/lp_utils.s: lpsolve/lp_utils.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_utils.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_utils.c.s
 .PHONY : lpsolve/lp_utils.c.s
 
 lpsolve/lp_wlp.o: lpsolve/lp_wlp.c.o
@@ -745,7 +745,7 @@ lpsolve/lp_wlp.o: lpsolve/lp_wlp.c.o
 
 # target to build an object file
 lpsolve/lp_wlp.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.o
 .PHONY : lpsolve/lp_wlp.c.o
 
 lpsolve/lp_wlp.i: lpsolve/lp_wlp.c.i
@@ -754,7 +754,7 @@ lpsolve/lp_wlp.i: lpsolve/lp_wlp.c.i
 
 # target to preprocess a source file
 lpsolve/lp_wlp.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.i
 .PHONY : lpsolve/lp_wlp.c.i
 
 lpsolve/lp_wlp.s: lpsolve/lp_wlp.c.s
@@ -763,7 +763,7 @@ lpsolve/lp_wlp.s: lpsolve/lp_wlp.c.s
 
 # target to generate assembly for a file
 lpsolve/lp_wlp.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/lp_wlp.c.s
 .PHONY : lpsolve/lp_wlp.c.s
 
 lpsolve/shared/commonlib.o: lpsolve/shared/commonlib.c.o
@@ -772,7 +772,7 @@ lpsolve/shared/commonlib.o: lpsolve/shared/commonlib.c.o
 
 # target to build an object file
 lpsolve/shared/commonlib.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.o
 .PHONY : lpsolve/shared/commonlib.c.o
 
 lpsolve/shared/commonlib.i: lpsolve/shared/commonlib.c.i
@@ -781,7 +781,7 @@ lpsolve/shared/commonlib.i: lpsolve/shared/commonlib.c.i
 
 # target to preprocess a source file
 lpsolve/shared/commonlib.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.i
 .PHONY : lpsolve/shared/commonlib.c.i
 
 lpsolve/shared/commonlib.s: lpsolve/shared/commonlib.c.s
@@ -790,7 +790,7 @@ lpsolve/shared/commonlib.s: lpsolve/shared/commonlib.c.s
 
 # target to generate assembly for a file
 lpsolve/shared/commonlib.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/commonlib.c.s
 .PHONY : lpsolve/shared/commonlib.c.s
 
 lpsolve/shared/mmio.o: lpsolve/shared/mmio.c.o
@@ -799,7 +799,7 @@ lpsolve/shared/mmio.o: lpsolve/shared/mmio.c.o
 
 # target to build an object file
 lpsolve/shared/mmio.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.o
 .PHONY : lpsolve/shared/mmio.c.o
 
 lpsolve/shared/mmio.i: lpsolve/shared/mmio.c.i
@@ -808,7 +808,7 @@ lpsolve/shared/mmio.i: lpsolve/shared/mmio.c.i
 
 # target to preprocess a source file
 lpsolve/shared/mmio.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.i
 .PHONY : lpsolve/shared/mmio.c.i
 
 lpsolve/shared/mmio.s: lpsolve/shared/mmio.c.s
@@ -817,7 +817,7 @@ lpsolve/shared/mmio.s: lpsolve/shared/mmio.c.s
 
 # target to generate assembly for a file
 lpsolve/shared/mmio.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/mmio.c.s
 .PHONY : lpsolve/shared/mmio.c.s
 
 lpsolve/shared/myblas.o: lpsolve/shared/myblas.c.o
@@ -826,7 +826,7 @@ lpsolve/shared/myblas.o: lpsolve/shared/myblas.c.o
 
 # target to build an object file
 lpsolve/shared/myblas.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.o
 .PHONY : lpsolve/shared/myblas.c.o
 
 lpsolve/shared/myblas.i: lpsolve/shared/myblas.c.i
@@ -835,7 +835,7 @@ lpsolve/shared/myblas.i: lpsolve/shared/myblas.c.i
 
 # target to preprocess a source file
 lpsolve/shared/myblas.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.i
 .PHONY : lpsolve/shared/myblas.c.i
 
 lpsolve/shared/myblas.s: lpsolve/shared/myblas.c.s
@@ -844,7 +844,7 @@ lpsolve/shared/myblas.s: lpsolve/shared/myblas.c.s
 
 # target to generate assembly for a file
 lpsolve/shared/myblas.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/shared/myblas.c.s
 .PHONY : lpsolve/shared/myblas.c.s
 
 lpsolve/yacc_read.o: lpsolve/yacc_read.c.o
@@ -853,7 +853,7 @@ lpsolve/yacc_read.o: lpsolve/yacc_read.c.o
 
 # target to build an object file
 lpsolve/yacc_read.c.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.o
 .PHONY : lpsolve/yacc_read.c.o
 
 lpsolve/yacc_read.i: lpsolve/yacc_read.c.i
@@ -862,7 +862,7 @@ lpsolve/yacc_read.i: lpsolve/yacc_read.c.i
 
 # target to preprocess a source file
 lpsolve/yacc_read.c.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.i
 .PHONY : lpsolve/yacc_read.c.i
 
 lpsolve/yacc_read.s: lpsolve/yacc_read.c.s
@@ -871,7 +871,7 @@ lpsolve/yacc_read.s: lpsolve/yacc_read.c.s
 
 # target to generate assembly for a file
 lpsolve/yacc_read.c.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f lib/lpsolve/CMakeFiles/liblpsolve.dir/build.make lib/lpsolve/CMakeFiles/liblpsolve.dir/lpsolve/yacc_read.c.s
 .PHONY : lpsolve/yacc_read.c.s
 
 # Help Target
@@ -975,6 +975,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

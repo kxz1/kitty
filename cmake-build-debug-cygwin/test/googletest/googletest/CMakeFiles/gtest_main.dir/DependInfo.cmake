@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest_main.cc" "/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+  "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest_main.cc" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,7 +16,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -63,10 +63,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 # Include any dependencies generated for this target.
 include test/googletest/googletest/CMakeFiles/gtest.dir/depend.make
@@ -79,16 +79,16 @@ include test/googletest/googletest/CMakeFiles/gtest.dir/flags.make
 
 test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: test/googletest/googletest/CMakeFiles/gtest.dir/flags.make
 test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: ../test/googletest/googletest/src/gtest-all.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest-all.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest-all.cc"
 
 test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gtest.dir/src/gtest-all.cc.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest-all.cc > CMakeFiles/gtest.dir/src/gtest-all.cc.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest-all.cc" > CMakeFiles/gtest.dir/src/gtest-all.cc.i
 
 test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gtest.dir/src/gtest-all.cc.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest-all.cc -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest-all.cc" -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
 
 # Object files for target gtest
 gtest_OBJECTS = \
@@ -100,9 +100,9 @@ gtest_EXTERNAL_OBJECTS =
 lib/libgtestd.a: test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
 lib/libgtestd.a: test/googletest/googletest/CMakeFiles/gtest.dir/build.make
 lib/libgtestd.a: test/googletest/googletest/CMakeFiles/gtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../lib/libgtestd.a"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean_target.cmake
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gtest.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../lib/libgtestd.a"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean_target.cmake
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 test/googletest/googletest/CMakeFiles/gtest.dir/build: lib/libgtestd.a
@@ -110,10 +110,10 @@ test/googletest/googletest/CMakeFiles/gtest.dir/build: lib/libgtestd.a
 .PHONY : test/googletest/googletest/CMakeFiles/gtest.dir/build
 
 test/googletest/googletest/CMakeFiles/gtest.dir/clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean.cmake
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean.cmake
 .PHONY : test/googletest/googletest/CMakeFiles/gtest.dir/clean
 
 test/googletest/googletest/CMakeFiles/gtest.dir/depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/f/Project/kitty /cygdrive/f/Project/kitty/test/googletest/googletest /cygdrive/f/Project/kitty/cmake-build-debug-cygwin /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : test/googletest/googletest/CMakeFiles/gtest.dir/depend
 

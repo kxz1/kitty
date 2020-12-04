@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/f/Project/kitty/include
+# Install script for directory: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

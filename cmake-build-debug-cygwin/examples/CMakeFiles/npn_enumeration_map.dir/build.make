@@ -63,10 +63,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 # Include any dependencies generated for this target.
 include examples/CMakeFiles/npn_enumeration_map.dir/depend.make
@@ -79,16 +79,16 @@ include examples/CMakeFiles/npn_enumeration_map.dir/flags.make
 
 examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o: examples/CMakeFiles/npn_enumeration_map.dir/flags.make
 examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o: ../examples/npn_enumeration_map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o -c /cygdrive/f/Project/kitty/examples/npn_enumeration_map.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_enumeration_map.cpp"
 
 examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/f/Project/kitty/examples/npn_enumeration_map.cpp > CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_enumeration_map.cpp" > CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i
 
 examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/f/Project/kitty/examples/npn_enumeration_map.cpp -o CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && /usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_enumeration_map.cpp" -o CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s
 
 # Object files for target npn_enumeration_map
 npn_enumeration_map_OBJECTS = \
@@ -101,8 +101,8 @@ examples/npn_enumeration_map.exe: examples/CMakeFiles/npn_enumeration_map.dir/np
 examples/npn_enumeration_map.exe: examples/CMakeFiles/npn_enumeration_map.dir/build.make
 examples/npn_enumeration_map.exe: lib/lpsolve/libliblpsolve.a
 examples/npn_enumeration_map.exe: examples/CMakeFiles/npn_enumeration_map.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable npn_enumeration_map.exe"
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/npn_enumeration_map.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable npn_enumeration_map.exe"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/npn_enumeration_map.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 examples/CMakeFiles/npn_enumeration_map.dir/build: examples/npn_enumeration_map.exe
@@ -110,10 +110,10 @@ examples/CMakeFiles/npn_enumeration_map.dir/build: examples/npn_enumeration_map.
 .PHONY : examples/CMakeFiles/npn_enumeration_map.dir/build
 
 examples/CMakeFiles/npn_enumeration_map.dir/clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples && $(CMAKE_COMMAND) -P CMakeFiles/npn_enumeration_map.dir/cmake_clean.cmake
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" && $(CMAKE_COMMAND) -P CMakeFiles/npn_enumeration_map.dir/cmake_clean.cmake
 .PHONY : examples/CMakeFiles/npn_enumeration_map.dir/clean
 
 examples/CMakeFiles/npn_enumeration_map.dir/depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/f/Project/kitty /cygdrive/f/Project/kitty/examples /cygdrive/f/Project/kitty/cmake-build-debug-cygwin /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/npn_enumeration_map.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/npn_enumeration_map.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : examples/CMakeFiles/npn_enumeration_map.dir/depend
 

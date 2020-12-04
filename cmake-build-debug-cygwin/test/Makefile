@@ -68,10 +68,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,14 +100,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/CMakeFiles/progress.marks
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/CMakeFiles/progress.marks"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/clean
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/clean
 .PHONY : clean
 
 # The main clean target
@@ -117,22 +117,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 test/CMakeFiles/run_tests_report.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests_report.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests_report.dir/rule
 .PHONY : test/CMakeFiles/run_tests_report.dir/rule
 
 # Convenience name for target.
@@ -142,12 +142,12 @@ run_tests_report: test/CMakeFiles/run_tests_report.dir/rule
 
 # fast build rule for target.
 run_tests_report/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/build
 .PHONY : run_tests_report/fast
 
 # Convenience name for target.
 test/CMakeFiles/run_tests.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/run_tests.dir/rule
 .PHONY : test/CMakeFiles/run_tests.dir/rule
 
 # Convenience name for target.
@@ -157,7 +157,7 @@ run_tests: test/CMakeFiles/run_tests.dir/rule
 
 # fast build rule for target.
 run_tests/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/build
 .PHONY : run_tests/fast
 
 affine.o: affine.cpp.o
@@ -166,8 +166,8 @@ affine.o: affine.cpp.o
 
 # target to build an object file
 affine.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.o
 .PHONY : affine.cpp.o
 
 affine.i: affine.cpp.i
@@ -176,8 +176,8 @@ affine.i: affine.cpp.i
 
 # target to preprocess a source file
 affine.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.i
 .PHONY : affine.cpp.i
 
 affine.s: affine.cpp.s
@@ -186,8 +186,8 @@ affine.s: affine.cpp.s
 
 # target to generate assembly for a file
 affine.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/affine.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/affine.cpp.s
 .PHONY : affine.cpp.s
 
 algorithm.o: algorithm.cpp.o
@@ -196,8 +196,8 @@ algorithm.o: algorithm.cpp.o
 
 # target to build an object file
 algorithm.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.o
 .PHONY : algorithm.cpp.o
 
 algorithm.i: algorithm.cpp.i
@@ -206,8 +206,8 @@ algorithm.i: algorithm.cpp.i
 
 # target to preprocess a source file
 algorithm.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.i
 .PHONY : algorithm.cpp.i
 
 algorithm.s: algorithm.cpp.s
@@ -216,8 +216,8 @@ algorithm.s: algorithm.cpp.s
 
 # target to generate assembly for a file
 algorithm.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/algorithm.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/algorithm.cpp.s
 .PHONY : algorithm.cpp.s
 
 bit_operations.o: bit_operations.cpp.o
@@ -226,8 +226,8 @@ bit_operations.o: bit_operations.cpp.o
 
 # target to build an object file
 bit_operations.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.o
 .PHONY : bit_operations.cpp.o
 
 bit_operations.i: bit_operations.cpp.i
@@ -236,8 +236,8 @@ bit_operations.i: bit_operations.cpp.i
 
 # target to preprocess a source file
 bit_operations.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.i
 .PHONY : bit_operations.cpp.i
 
 bit_operations.s: bit_operations.cpp.s
@@ -246,8 +246,8 @@ bit_operations.s: bit_operations.cpp.s
 
 # target to generate assembly for a file
 bit_operations.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/bit_operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/bit_operations.cpp.s
 .PHONY : bit_operations.cpp.s
 
 cnf.o: cnf.cpp.o
@@ -256,8 +256,8 @@ cnf.o: cnf.cpp.o
 
 # target to build an object file
 cnf.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.o
 .PHONY : cnf.cpp.o
 
 cnf.i: cnf.cpp.i
@@ -266,8 +266,8 @@ cnf.i: cnf.cpp.i
 
 # target to preprocess a source file
 cnf.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.i
 .PHONY : cnf.cpp.i
 
 cnf.s: cnf.cpp.s
@@ -276,8 +276,8 @@ cnf.s: cnf.cpp.s
 
 # target to generate assembly for a file
 cnf.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cnf.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cnf.cpp.s
 .PHONY : cnf.cpp.s
 
 constructors.o: constructors.cpp.o
@@ -286,8 +286,8 @@ constructors.o: constructors.cpp.o
 
 # target to build an object file
 constructors.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.o
 .PHONY : constructors.cpp.o
 
 constructors.i: constructors.cpp.i
@@ -296,8 +296,8 @@ constructors.i: constructors.cpp.i
 
 # target to preprocess a source file
 constructors.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.i
 .PHONY : constructors.cpp.i
 
 constructors.s: constructors.cpp.s
@@ -306,8 +306,8 @@ constructors.s: constructors.cpp.s
 
 # target to generate assembly for a file
 constructors.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/constructors.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/constructors.cpp.s
 .PHONY : constructors.cpp.s
 
 cube.o: cube.cpp.o
@@ -316,8 +316,8 @@ cube.o: cube.cpp.o
 
 # target to build an object file
 cube.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.o
 .PHONY : cube.cpp.o
 
 cube.i: cube.cpp.i
@@ -326,8 +326,8 @@ cube.i: cube.cpp.i
 
 # target to preprocess a source file
 cube.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.i
 .PHONY : cube.cpp.i
 
 cube.s: cube.cpp.s
@@ -336,8 +336,8 @@ cube.s: cube.cpp.s
 
 # target to generate assembly for a file
 cube.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/cube.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/cube.cpp.s
 .PHONY : cube.cpp.s
 
 decomposition.o: decomposition.cpp.o
@@ -346,8 +346,8 @@ decomposition.o: decomposition.cpp.o
 
 # target to build an object file
 decomposition.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.o
 .PHONY : decomposition.cpp.o
 
 decomposition.i: decomposition.cpp.i
@@ -356,8 +356,8 @@ decomposition.i: decomposition.cpp.i
 
 # target to preprocess a source file
 decomposition.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.i
 .PHONY : decomposition.cpp.i
 
 decomposition.s: decomposition.cpp.s
@@ -366,8 +366,8 @@ decomposition.s: decomposition.cpp.s
 
 # target to generate assembly for a file
 decomposition.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/decomposition.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/decomposition.cpp.s
 .PHONY : decomposition.cpp.s
 
 enumeration.o: enumeration.cpp.o
@@ -376,8 +376,8 @@ enumeration.o: enumeration.cpp.o
 
 # target to build an object file
 enumeration.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.o
 .PHONY : enumeration.cpp.o
 
 enumeration.i: enumeration.cpp.i
@@ -386,8 +386,8 @@ enumeration.i: enumeration.cpp.i
 
 # target to preprocess a source file
 enumeration.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.i
 .PHONY : enumeration.cpp.i
 
 enumeration.s: enumeration.cpp.s
@@ -396,8 +396,8 @@ enumeration.s: enumeration.cpp.s
 
 # target to generate assembly for a file
 enumeration.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/enumeration.cpp.s
 .PHONY : enumeration.cpp.s
 
 hash.o: hash.cpp.o
@@ -406,8 +406,8 @@ hash.o: hash.cpp.o
 
 # target to build an object file
 hash.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.o
 .PHONY : hash.cpp.o
 
 hash.i: hash.cpp.i
@@ -416,8 +416,8 @@ hash.i: hash.cpp.i
 
 # target to preprocess a source file
 hash.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.i
 .PHONY : hash.cpp.i
 
 hash.s: hash.cpp.s
@@ -426,8 +426,8 @@ hash.s: hash.cpp.s
 
 # target to generate assembly for a file
 hash.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/hash.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/hash.cpp.s
 .PHONY : hash.cpp.s
 
 implicant.o: implicant.cpp.o
@@ -436,8 +436,8 @@ implicant.o: implicant.cpp.o
 
 # target to build an object file
 implicant.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.o
 .PHONY : implicant.cpp.o
 
 implicant.i: implicant.cpp.i
@@ -446,8 +446,8 @@ implicant.i: implicant.cpp.i
 
 # target to preprocess a source file
 implicant.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.i
 .PHONY : implicant.cpp.i
 
 implicant.s: implicant.cpp.s
@@ -456,8 +456,8 @@ implicant.s: implicant.cpp.s
 
 # target to generate assembly for a file
 implicant.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/implicant.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/implicant.cpp.s
 .PHONY : implicant.cpp.s
 
 isop.o: isop.cpp.o
@@ -466,8 +466,8 @@ isop.o: isop.cpp.o
 
 # target to build an object file
 isop.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.o
 .PHONY : isop.cpp.o
 
 isop.i: isop.cpp.i
@@ -476,8 +476,8 @@ isop.i: isop.cpp.i
 
 # target to preprocess a source file
 isop.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.i
 .PHONY : isop.cpp.i
 
 isop.s: isop.cpp.s
@@ -486,8 +486,8 @@ isop.s: isop.cpp.s
 
 # target to generate assembly for a file
 isop.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/isop.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/isop.cpp.s
 .PHONY : isop.cpp.s
 
 npn.o: npn.cpp.o
@@ -496,8 +496,8 @@ npn.o: npn.cpp.o
 
 # target to build an object file
 npn.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.o
 .PHONY : npn.cpp.o
 
 npn.i: npn.cpp.i
@@ -506,8 +506,8 @@ npn.i: npn.cpp.i
 
 # target to preprocess a source file
 npn.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.i
 .PHONY : npn.cpp.i
 
 npn.s: npn.cpp.s
@@ -516,8 +516,8 @@ npn.s: npn.cpp.s
 
 # target to generate assembly for a file
 npn.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/npn.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/npn.cpp.s
 .PHONY : npn.cpp.s
 
 operations.o: operations.cpp.o
@@ -526,8 +526,8 @@ operations.o: operations.cpp.o
 
 # target to build an object file
 operations.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.o
 .PHONY : operations.cpp.o
 
 operations.i: operations.cpp.i
@@ -536,8 +536,8 @@ operations.i: operations.cpp.i
 
 # target to preprocess a source file
 operations.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.i
 .PHONY : operations.cpp.i
 
 operations.s: operations.cpp.s
@@ -546,8 +546,8 @@ operations.s: operations.cpp.s
 
 # target to generate assembly for a file
 operations.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/operations.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/operations.cpp.s
 .PHONY : operations.cpp.s
 
 partial_truth_table.o: partial_truth_table.cpp.o
@@ -556,8 +556,8 @@ partial_truth_table.o: partial_truth_table.cpp.o
 
 # target to build an object file
 partial_truth_table.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.o
 .PHONY : partial_truth_table.cpp.o
 
 partial_truth_table.i: partial_truth_table.cpp.i
@@ -566,8 +566,8 @@ partial_truth_table.i: partial_truth_table.cpp.i
 
 # target to preprocess a source file
 partial_truth_table.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.i
 .PHONY : partial_truth_table.cpp.i
 
 partial_truth_table.s: partial_truth_table.cpp.s
@@ -576,8 +576,8 @@ partial_truth_table.s: partial_truth_table.cpp.s
 
 # target to generate assembly for a file
 partial_truth_table.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/partial_truth_table.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.s
 .PHONY : partial_truth_table.cpp.s
 
 permutation.o: permutation.cpp.o
@@ -586,8 +586,8 @@ permutation.o: permutation.cpp.o
 
 # target to build an object file
 permutation.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.o
 .PHONY : permutation.cpp.o
 
 permutation.i: permutation.cpp.i
@@ -596,8 +596,8 @@ permutation.i: permutation.cpp.i
 
 # target to preprocess a source file
 permutation.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.i
 .PHONY : permutation.cpp.i
 
 permutation.s: permutation.cpp.s
@@ -606,8 +606,8 @@ permutation.s: permutation.cpp.s
 
 # target to generate assembly for a file
 permutation.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/permutation.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/permutation.cpp.s
 .PHONY : permutation.cpp.s
 
 print.o: print.cpp.o
@@ -616,8 +616,8 @@ print.o: print.cpp.o
 
 # target to build an object file
 print.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.o
 .PHONY : print.cpp.o
 
 print.i: print.cpp.i
@@ -626,8 +626,8 @@ print.i: print.cpp.i
 
 # target to preprocess a source file
 print.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.i
 .PHONY : print.cpp.i
 
 print.s: print.cpp.s
@@ -636,8 +636,8 @@ print.s: print.cpp.s
 
 # target to generate assembly for a file
 print.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/print.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/print.cpp.s
 .PHONY : print.cpp.s
 
 properties.o: properties.cpp.o
@@ -646,8 +646,8 @@ properties.o: properties.cpp.o
 
 # target to build an object file
 properties.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.o
 .PHONY : properties.cpp.o
 
 properties.i: properties.cpp.i
@@ -656,8 +656,8 @@ properties.i: properties.cpp.i
 
 # target to preprocess a source file
 properties.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.i
 .PHONY : properties.cpp.i
 
 properties.s: properties.cpp.s
@@ -666,8 +666,8 @@ properties.s: properties.cpp.s
 
 # target to generate assembly for a file
 properties.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/properties.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/properties.cpp.s
 .PHONY : properties.cpp.s
 
 spectral.o: spectral.cpp.o
@@ -676,8 +676,8 @@ spectral.o: spectral.cpp.o
 
 # target to build an object file
 spectral.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.o
 .PHONY : spectral.cpp.o
 
 spectral.i: spectral.cpp.i
@@ -686,8 +686,8 @@ spectral.i: spectral.cpp.i
 
 # target to preprocess a source file
 spectral.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.i
 .PHONY : spectral.cpp.i
 
 spectral.s: spectral.cpp.s
@@ -696,8 +696,8 @@ spectral.s: spectral.cpp.s
 
 # target to generate assembly for a file
 spectral.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spectral.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spectral.cpp.s
 .PHONY : spectral.cpp.s
 
 spp.o: spp.cpp.o
@@ -706,8 +706,8 @@ spp.o: spp.cpp.o
 
 # target to build an object file
 spp.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.o
 .PHONY : spp.cpp.o
 
 spp.i: spp.cpp.i
@@ -716,8 +716,8 @@ spp.i: spp.cpp.i
 
 # target to preprocess a source file
 spp.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.i
 .PHONY : spp.cpp.i
 
 spp.s: spp.cpp.s
@@ -726,8 +726,8 @@ spp.s: spp.cpp.s
 
 # target to generate assembly for a file
 spp.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/spp.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/spp.cpp.s
 .PHONY : spp.cpp.s
 
 tests.o: tests.cpp.o
@@ -736,8 +736,8 @@ tests.o: tests.cpp.o
 
 # target to build an object file
 tests.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.o
 .PHONY : tests.cpp.o
 
 tests.i: tests.cpp.i
@@ -746,8 +746,8 @@ tests.i: tests.cpp.i
 
 # target to preprocess a source file
 tests.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.i
 .PHONY : tests.cpp.i
 
 tests.s: tests.cpp.s
@@ -756,8 +756,8 @@ tests.s: tests.cpp.s
 
 # target to generate assembly for a file
 tests.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/tests.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/tests.cpp.s
 .PHONY : tests.cpp.s
 
 threshold_identification.o: threshold_identification.cpp.o
@@ -766,8 +766,8 @@ threshold_identification.o: threshold_identification.cpp.o
 
 # target to build an object file
 threshold_identification.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.o
 .PHONY : threshold_identification.cpp.o
 
 threshold_identification.i: threshold_identification.cpp.i
@@ -776,8 +776,8 @@ threshold_identification.i: threshold_identification.cpp.i
 
 # target to preprocess a source file
 threshold_identification.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.i
 .PHONY : threshold_identification.cpp.i
 
 threshold_identification.s: threshold_identification.cpp.s
@@ -786,8 +786,8 @@ threshold_identification.s: threshold_identification.cpp.s
 
 # target to generate assembly for a file
 threshold_identification.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/threshold_identification.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/threshold_identification.cpp.s
 .PHONY : threshold_identification.cpp.s
 
 traits.o: traits.cpp.o
@@ -796,8 +796,8 @@ traits.o: traits.cpp.o
 
 # target to build an object file
 traits.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.o
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.o
 .PHONY : traits.cpp.o
 
 traits.i: traits.cpp.i
@@ -806,8 +806,8 @@ traits.i: traits.cpp.i
 
 # target to preprocess a source file
 traits.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.i
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.i
 .PHONY : traits.cpp.i
 
 traits.s: traits.cpp.s
@@ -816,8 +816,8 @@ traits.s: traits.cpp.s
 
 # target to generate assembly for a file
 traits.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.s
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/traits.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/traits.cpp.s
 .PHONY : traits.cpp.s
 
 # Help Target
@@ -907,6 +907,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

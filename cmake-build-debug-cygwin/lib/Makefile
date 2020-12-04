@@ -68,10 +68,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,14 +100,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/CMakeFiles/progress.marks
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/CMakeFiles/progress.marks"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
 .PHONY : clean
 
 # The main clean target
@@ -117,17 +117,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -149,6 +149,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

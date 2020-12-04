@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/f/Project/kitty/lib/lpsolve
+# Install script for directory: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -35,6 +35,7 @@
 #include <vector>
 #include <bitset>
 #include <string>
+#include <algorithm>
 #include <lpsolve/lp_lib.h> /* uncomment this line to include lp_solve */
 #include "traits.hpp"
 #include "properties.hpp"
@@ -92,13 +93,68 @@ template<typename TT, typename = std::enable_if_t<is_complete_truth_table<TT>::v
 bool is_threshold( const TT& tt, std::vector<int64_t>* plf = nullptr )
 {
   std::vector<int64_t> linear_form;
-
+TT ttu=tt;
+std::vector<bool>inverted_variables(ttu.num_vars(),false);
 
   /* if tt is non-TF: */
-  if ( !is_monotone(tt) and !is_neg_unate(tt) )
-  { int teer=1;
-    //return false;
+  if ( !is_monotone(ttu) )
+  {
+
+    auto numvars = ttu.num_vars();
+
+    for ( auto i = 0u; i < numvars; i++ )
+    {
+      auto const tt1 = cofactor0( ttu, i );
+      auto const tt2 = cofactor1( ttu, i );
+      bool neg_unate=false,eequal=false,pos_unate=false, change =false;
+
+      for ( auto bit = 1; bit < ( 2 << ( numvars - 1 ) ); bit++ )
+      {
+        if ( get_bit( tt1, bit ) > get_bit( tt2, bit ) )
+        {neg_unate=true;}
+        if ( get_bit( tt1, bit ) < get_bit( tt2, bit ) )
+        {pos_unate=true;}
+        if ( get_bit( tt1, bit ) == get_bit( tt2, bit ) )
+        {eequal=true;}
+
+        }
+        if (neg_unate and pos_unate) {return false;}
+        if (neg_unate){
+          inverted_variables.at(i)=true;
+          for (uint64_t bit = 0; bit < ( 2 << ( numvars - 1 ) ); bit=bit+2*pow(2,i)){
+            std::vector<bool> tmp,tmp1;
+            for(uint64_t k=bit; k<bit+pow(2,i);k++){
+                tmp.push_back(get_bit(ttu,k));
+          }
+            std::reverse(tmp.begin(),tmp.end());
+            for(uint64_t j=bit+pow(2,i); j<bit+2*pow(2,i);j++){
+              //bool bittt,bittmp;
+              //bittt=get_bit(ttu,j);
+              //bittmp=tmp.at(tmp.size()-1);
+              tmp1.push_back(get_bit(ttu,j));
+              if (get_bit(ttu,j)!=tmp.at(tmp.size()-1)){
+                flip_bit(ttu,j);
+              }
+              tmp.pop_back();
+            }
+            std::reverse(tmp1.begin(),tmp1.end());
+            for(uint64_t j=bit; j<bit+pow(2,i);j++){
+              //bool bittt,bittmp;
+              //bittt=get_bit(ttu,j);
+              //bittmp=tmp.at(tmp.size()-1);
+
+              if (get_bit(ttu,j)!=tmp1.at(tmp1.size()-1)){
+                flip_bit(ttu,j);
+              }
+              tmp1.pop_back();
+            }
+
+        }
+      }
     }
+
+    //return false;
+  }
 
 
     lprec *lp;
@@ -108,8 +164,8 @@ bool is_threshold( const TT& tt, std::vector<int64_t>* plf = nullptr )
 
     /* We will build the model row by row
        So we start with creating a model with 0 rows and 2 columns */
-    const uint64_t Ncol = tt.num_vars()+1; /* there are two variables in the model */
-    Nrow = pow(2,tt.num_vars());
+    const uint64_t Ncol = ttu.num_vars()+1; /* there are two variables in the model */
+    Nrow = pow(2,ttu.num_vars());
     lp = make_lp(0, Ncol);
     if(lp == NULL)
       ret = 1; /* couldn't construct a new model... */
@@ -132,20 +188,40 @@ bool is_threshold( const TT& tt, std::vector<int64_t>* plf = nullptr )
         std::bitset<64> bs(index);
         for ( uint64_t var = 1; var <= Ncol-1; var++ )
         {
-          /* k column */
-          colno[j] = var;
-          if (bs.test(var-1)){
-          row[j++] = 1;}
-          else
-          {row[j++] = 0;}
+          if (!inverted_variables.at(var-1))
+          {
+            /* k column */
+            colno[j] = var;
+            if ( bs.test( var - 1 ) )
+            {
+              row[j++] = 1;
+            }
+            else
+            {
+              row[j++] = 0;
+            }
+          }
+          else{
 
+            /* k column */
+            colno[j] = var;
+            if ( bs.test( var - 1 ) )
+            {
+              row[j++] = 1;
+            }
+            else
+            {
+              row[j++] = 0;
+            }
+
+          }
         }
         // T column
         colno[j] = Ncol; /* last column */
         row[j++] = -1;
 
 
-        if (get_bit(tt,index)){
+        if (get_bit(ttu,index)){
 
           /* add the row to lpsolve */
           if(!add_constraintex(lp, j, row, colno, GE, 0))

@@ -6,5 +6,5 @@ CXX_FLAGS =  -O2 -DNDEBUG -g   -W -Wall -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/cygdrive/f/Project/kitty/include -isystem /cygdrive/f/Project/kitty/lib/lpsolve 
+CXX_INCLUDES = -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include" -isystem "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve" 
 

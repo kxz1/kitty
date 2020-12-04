@@ -68,10 +68,10 @@ RM = /cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/f/Project/kitty
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,14 +100,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/progress.marks
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/CMakeFiles/progress.marks"
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/clean
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/clean
 .PHONY : clean
 
 # The main clean target
@@ -117,22 +117,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/preinstall
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 examples/CMakeFiles/spectral_enumeration_fuller.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_fuller.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_fuller.dir/rule
 .PHONY : examples/CMakeFiles/spectral_enumeration_fuller.dir/rule
 
 # Convenience name for target.
@@ -142,12 +142,12 @@ spectral_enumeration_fuller: examples/CMakeFiles/spectral_enumeration_fuller.dir
 
 # fast build rule for target.
 spectral_enumeration_fuller/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/build
 .PHONY : spectral_enumeration_fuller/fast
 
 # Convenience name for target.
 examples/CMakeFiles/spectral_enumeration_file.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_file.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_file.dir/rule
 .PHONY : examples/CMakeFiles/spectral_enumeration_file.dir/rule
 
 # Convenience name for target.
@@ -157,12 +157,12 @@ spectral_enumeration_file: examples/CMakeFiles/spectral_enumeration_file.dir/rul
 
 # fast build rule for target.
 spectral_enumeration_file/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/build
 .PHONY : spectral_enumeration_file/fast
 
 # Convenience name for target.
 examples/CMakeFiles/npn_random.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_random.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_random.dir/rule
 .PHONY : examples/CMakeFiles/npn_random.dir/rule
 
 # Convenience name for target.
@@ -172,12 +172,12 @@ npn_random: examples/CMakeFiles/npn_random.dir/rule
 
 # fast build rule for target.
 npn_random/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/build
 .PHONY : npn_random/fast
 
 # Convenience name for target.
 examples/CMakeFiles/npn_enumeration.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_enumeration.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_enumeration.dir/rule
 .PHONY : examples/CMakeFiles/npn_enumeration.dir/rule
 
 # Convenience name for target.
@@ -187,12 +187,12 @@ npn_enumeration: examples/CMakeFiles/npn_enumeration.dir/rule
 
 # fast build rule for target.
 npn_enumeration/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/build
 .PHONY : npn_enumeration/fast
 
 # Convenience name for target.
 examples/CMakeFiles/isop.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/isop.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/isop.dir/rule
 .PHONY : examples/CMakeFiles/isop.dir/rule
 
 # Convenience name for target.
@@ -202,12 +202,12 @@ isop: examples/CMakeFiles/isop.dir/rule
 
 # fast build rule for target.
 isop/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/build
 .PHONY : isop/fast
 
 # Convenience name for target.
 examples/CMakeFiles/spectral_enumeration_map.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_map.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration_map.dir/rule
 .PHONY : examples/CMakeFiles/spectral_enumeration_map.dir/rule
 
 # Convenience name for target.
@@ -217,12 +217,12 @@ spectral_enumeration_map: examples/CMakeFiles/spectral_enumeration_map.dir/rule
 
 # fast build rule for target.
 spectral_enumeration_map/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/build
 .PHONY : spectral_enumeration_map/fast
 
 # Convenience name for target.
 examples/CMakeFiles/spectral_enumeration.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/spectral_enumeration.dir/rule
 .PHONY : examples/CMakeFiles/spectral_enumeration.dir/rule
 
 # Convenience name for target.
@@ -232,12 +232,12 @@ spectral_enumeration: examples/CMakeFiles/spectral_enumeration.dir/rule
 
 # fast build rule for target.
 spectral_enumeration/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/build
 .PHONY : spectral_enumeration/fast
 
 # Convenience name for target.
 examples/CMakeFiles/npn_enumeration_map.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_enumeration_map.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/npn_enumeration_map.dir/rule
 .PHONY : examples/CMakeFiles/npn_enumeration_map.dir/rule
 
 # Convenience name for target.
@@ -247,12 +247,12 @@ npn_enumeration_map: examples/CMakeFiles/npn_enumeration_map.dir/rule
 
 # fast build rule for target.
 npn_enumeration_map/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/build
 .PHONY : npn_enumeration_map/fast
 
 # Convenience name for target.
 examples/CMakeFiles/gf16_inverse.dir/rule:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/gf16_inverse.dir/rule
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/CMakeFiles/gf16_inverse.dir/rule
 .PHONY : examples/CMakeFiles/gf16_inverse.dir/rule
 
 # Convenience name for target.
@@ -262,7 +262,7 @@ gf16_inverse: examples/CMakeFiles/gf16_inverse.dir/rule
 
 # fast build rule for target.
 gf16_inverse/fast:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/build
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/build
 .PHONY : gf16_inverse/fast
 
 gf16_inverse.o: gf16_inverse.cpp.o
@@ -271,7 +271,7 @@ gf16_inverse.o: gf16_inverse.cpp.o
 
 # target to build an object file
 gf16_inverse.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.o
 .PHONY : gf16_inverse.cpp.o
 
 gf16_inverse.i: gf16_inverse.cpp.i
@@ -280,7 +280,7 @@ gf16_inverse.i: gf16_inverse.cpp.i
 
 # target to preprocess a source file
 gf16_inverse.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.i
 .PHONY : gf16_inverse.cpp.i
 
 gf16_inverse.s: gf16_inverse.cpp.s
@@ -289,7 +289,7 @@ gf16_inverse.s: gf16_inverse.cpp.s
 
 # target to generate assembly for a file
 gf16_inverse.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/gf16_inverse.cpp.s
 .PHONY : gf16_inverse.cpp.s
 
 isop.o: isop.cpp.o
@@ -298,7 +298,7 @@ isop.o: isop.cpp.o
 
 # target to build an object file
 isop.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.o
 .PHONY : isop.cpp.o
 
 isop.i: isop.cpp.i
@@ -307,7 +307,7 @@ isop.i: isop.cpp.i
 
 # target to preprocess a source file
 isop.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.i
 .PHONY : isop.cpp.i
 
 isop.s: isop.cpp.s
@@ -316,7 +316,7 @@ isop.s: isop.cpp.s
 
 # target to generate assembly for a file
 isop.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/isop.dir/build.make examples/CMakeFiles/isop.dir/isop.cpp.s
 .PHONY : isop.cpp.s
 
 npn_enumeration.o: npn_enumeration.cpp.o
@@ -325,7 +325,7 @@ npn_enumeration.o: npn_enumeration.cpp.o
 
 # target to build an object file
 npn_enumeration.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.o
 .PHONY : npn_enumeration.cpp.o
 
 npn_enumeration.i: npn_enumeration.cpp.i
@@ -334,7 +334,7 @@ npn_enumeration.i: npn_enumeration.cpp.i
 
 # target to preprocess a source file
 npn_enumeration.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.i
 .PHONY : npn_enumeration.cpp.i
 
 npn_enumeration.s: npn_enumeration.cpp.s
@@ -343,7 +343,7 @@ npn_enumeration.s: npn_enumeration.cpp.s
 
 # target to generate assembly for a file
 npn_enumeration.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration.dir/build.make examples/CMakeFiles/npn_enumeration.dir/npn_enumeration.cpp.s
 .PHONY : npn_enumeration.cpp.s
 
 npn_enumeration_map.o: npn_enumeration_map.cpp.o
@@ -352,7 +352,7 @@ npn_enumeration_map.o: npn_enumeration_map.cpp.o
 
 # target to build an object file
 npn_enumeration_map.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.o
 .PHONY : npn_enumeration_map.cpp.o
 
 npn_enumeration_map.i: npn_enumeration_map.cpp.i
@@ -361,7 +361,7 @@ npn_enumeration_map.i: npn_enumeration_map.cpp.i
 
 # target to preprocess a source file
 npn_enumeration_map.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.i
 .PHONY : npn_enumeration_map.cpp.i
 
 npn_enumeration_map.s: npn_enumeration_map.cpp.s
@@ -370,7 +370,7 @@ npn_enumeration_map.s: npn_enumeration_map.cpp.s
 
 # target to generate assembly for a file
 npn_enumeration_map.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_enumeration_map.dir/build.make examples/CMakeFiles/npn_enumeration_map.dir/npn_enumeration_map.cpp.s
 .PHONY : npn_enumeration_map.cpp.s
 
 npn_random.o: npn_random.cpp.o
@@ -379,7 +379,7 @@ npn_random.o: npn_random.cpp.o
 
 # target to build an object file
 npn_random.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.o
 .PHONY : npn_random.cpp.o
 
 npn_random.i: npn_random.cpp.i
@@ -388,7 +388,7 @@ npn_random.i: npn_random.cpp.i
 
 # target to preprocess a source file
 npn_random.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.i
 .PHONY : npn_random.cpp.i
 
 npn_random.s: npn_random.cpp.s
@@ -397,7 +397,7 @@ npn_random.s: npn_random.cpp.s
 
 # target to generate assembly for a file
 npn_random.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/npn_random.dir/build.make examples/CMakeFiles/npn_random.dir/npn_random.cpp.s
 .PHONY : npn_random.cpp.s
 
 spectral_enumeration.o: spectral_enumeration.cpp.o
@@ -406,7 +406,7 @@ spectral_enumeration.o: spectral_enumeration.cpp.o
 
 # target to build an object file
 spectral_enumeration.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.o
 .PHONY : spectral_enumeration.cpp.o
 
 spectral_enumeration.i: spectral_enumeration.cpp.i
@@ -415,7 +415,7 @@ spectral_enumeration.i: spectral_enumeration.cpp.i
 
 # target to preprocess a source file
 spectral_enumeration.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.i
 .PHONY : spectral_enumeration.cpp.i
 
 spectral_enumeration.s: spectral_enumeration.cpp.s
@@ -424,7 +424,7 @@ spectral_enumeration.s: spectral_enumeration.cpp.s
 
 # target to generate assembly for a file
 spectral_enumeration.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration.dir/build.make examples/CMakeFiles/spectral_enumeration.dir/spectral_enumeration.cpp.s
 .PHONY : spectral_enumeration.cpp.s
 
 spectral_enumeration_file.o: spectral_enumeration_file.cpp.o
@@ -433,7 +433,7 @@ spectral_enumeration_file.o: spectral_enumeration_file.cpp.o
 
 # target to build an object file
 spectral_enumeration_file.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.o
 .PHONY : spectral_enumeration_file.cpp.o
 
 spectral_enumeration_file.i: spectral_enumeration_file.cpp.i
@@ -442,7 +442,7 @@ spectral_enumeration_file.i: spectral_enumeration_file.cpp.i
 
 # target to preprocess a source file
 spectral_enumeration_file.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.i
 .PHONY : spectral_enumeration_file.cpp.i
 
 spectral_enumeration_file.s: spectral_enumeration_file.cpp.s
@@ -451,7 +451,7 @@ spectral_enumeration_file.s: spectral_enumeration_file.cpp.s
 
 # target to generate assembly for a file
 spectral_enumeration_file.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_file.dir/build.make examples/CMakeFiles/spectral_enumeration_file.dir/spectral_enumeration_file.cpp.s
 .PHONY : spectral_enumeration_file.cpp.s
 
 spectral_enumeration_fuller.o: spectral_enumeration_fuller.cpp.o
@@ -460,7 +460,7 @@ spectral_enumeration_fuller.o: spectral_enumeration_fuller.cpp.o
 
 # target to build an object file
 spectral_enumeration_fuller.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.o
 .PHONY : spectral_enumeration_fuller.cpp.o
 
 spectral_enumeration_fuller.i: spectral_enumeration_fuller.cpp.i
@@ -469,7 +469,7 @@ spectral_enumeration_fuller.i: spectral_enumeration_fuller.cpp.i
 
 # target to preprocess a source file
 spectral_enumeration_fuller.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.i
 .PHONY : spectral_enumeration_fuller.cpp.i
 
 spectral_enumeration_fuller.s: spectral_enumeration_fuller.cpp.s
@@ -478,7 +478,7 @@ spectral_enumeration_fuller.s: spectral_enumeration_fuller.cpp.s
 
 # target to generate assembly for a file
 spectral_enumeration_fuller.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_fuller.dir/build.make examples/CMakeFiles/spectral_enumeration_fuller.dir/spectral_enumeration_fuller.cpp.s
 .PHONY : spectral_enumeration_fuller.cpp.s
 
 spectral_enumeration_map.o: spectral_enumeration_map.cpp.o
@@ -487,7 +487,7 @@ spectral_enumeration_map.o: spectral_enumeration_map.cpp.o
 
 # target to build an object file
 spectral_enumeration_map.cpp.o:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.o
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.o
 .PHONY : spectral_enumeration_map.cpp.o
 
 spectral_enumeration_map.i: spectral_enumeration_map.cpp.i
@@ -496,7 +496,7 @@ spectral_enumeration_map.i: spectral_enumeration_map.cpp.i
 
 # target to preprocess a source file
 spectral_enumeration_map.cpp.i:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.i
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.i
 .PHONY : spectral_enumeration_map.cpp.i
 
 spectral_enumeration_map.s: spectral_enumeration_map.cpp.s
@@ -505,7 +505,7 @@ spectral_enumeration_map.s: spectral_enumeration_map.cpp.s
 
 # target to generate assembly for a file
 spectral_enumeration_map.cpp.s:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.s
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(MAKE) $(MAKESILENT) -f examples/CMakeFiles/spectral_enumeration_map.dir/build.make examples/CMakeFiles/spectral_enumeration_map.dir/spectral_enumeration_map.cpp.s
 .PHONY : spectral_enumeration_map.cpp.s
 
 # Help Target
@@ -563,6 +563,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /cygdrive/f/Project/kitty/cmake-build-debug-cygwin && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

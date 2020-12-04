@@ -8,48 +8,48 @@
 		<Option virtualFolders="CMake Files\;CMake Files\test\;CMake Files\test\googletest\;CMake Files\test\googletest\googletest\;CMake Files\test\googletest\googletest\cmake\;CMake Files\include\;CMake Files\lib\;CMake Files\lib\lpsolve\;CMake Files\examples\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="liblpsolve">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/libliblpsolve.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/libliblpsolve.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/colamd"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/colamd"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -58,25 +58,25 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 liblpsolve"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 liblpsolve"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="liblpsolve/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/libliblpsolve.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/libliblpsolve.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/colamd"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/colamd"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -85,21 +85,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 liblpsolve/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 liblpsolve/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/lib/lpsolve/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_fuller">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_fuller.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_fuller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -108,21 +108,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_fuller"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_fuller"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_fuller/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_fuller.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_fuller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -131,21 +131,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_fuller/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_fuller/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_file">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_file.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_file.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -154,21 +154,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_file"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_file"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_file/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_file.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_file.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -177,21 +177,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_file/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_file/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_random">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_random.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_random.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -200,21 +200,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_random"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_random"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_random/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_random.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_random.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -223,21 +223,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_random/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_random/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_enumeration">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_enumeration.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_enumeration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -246,21 +246,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_enumeration/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_enumeration.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_enumeration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -269,21 +269,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="isop">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/isop.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/isop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -292,21 +292,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 isop"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 isop"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="isop/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/isop.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/isop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -315,21 +315,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 isop/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 isop/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_map">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -338,21 +338,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_map"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_map"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration_map/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -361,21 +361,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_map/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration_map/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -384,21 +384,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spectral_enumeration/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/spectral_enumeration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -407,21 +407,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 spectral_enumeration/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_enumeration_map">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -430,21 +430,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration_map"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration_map"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="npn_enumeration_map/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/npn_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/npn_enumeration_map.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -453,21 +453,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration_map/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 npn_enumeration_map/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gf16_inverse">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/gf16_inverse.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/gf16_inverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -476,21 +476,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 gf16_inverse"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 gf16_inverse"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gf16_inverse/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/gf16_inverse.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples/gf16_inverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/examples"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -499,23 +499,23 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 gf16_inverse/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 gf16_inverse/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/examples/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_tests_report">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/run_tests_report.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/run_tests_report.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -524,23 +524,23 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests_report"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests_report"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_tests_report/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/run_tests_report.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/run_tests_report.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -549,23 +549,23 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests_report/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests_report/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_tests">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/run_tests.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/run_tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -574,23 +574,23 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_tests/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/run_tests.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/run_tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
-					<Add directory="/cygdrive/f/Project/kitty/lib/lpsolve"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -599,21 +599,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 run_tests/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -622,21 +622,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -645,21 +645,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -668,21 +668,21 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
+				<Option output="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
-					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
@@ -691,315 +691,315 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/lberc/OneDrive\ -\ Politecnico\ di\ Torino/Documents/kitty/cmake-build-debug-cygwin/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/gf16_inverse.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/gf16_inverse.cpp">
 			<Option target="gf16_inverse"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/isop.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/isop.cpp">
 			<Option target="isop"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/npn_enumeration.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_enumeration.cpp">
 			<Option target="npn_enumeration"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/npn_enumeration_map.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_enumeration_map.cpp">
 			<Option target="npn_enumeration_map"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/npn_random.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/npn_random.cpp">
 			<Option target="npn_random"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/spectral_enumeration.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration.cpp">
 			<Option target="spectral_enumeration"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/spectral_enumeration_file.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration_file.cpp">
 			<Option target="spectral_enumeration_file"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/spectral_enumeration_fuller.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration_fuller.cpp">
 			<Option target="spectral_enumeration_fuller"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/spectral_enumeration_map.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/spectral_enumeration_map.cpp">
 			<Option target="spectral_enumeration_map"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/LUSOL/lusol.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/bfp/bfp_LUSOL/lp_LUSOL.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/colamd/colamd.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/colamd/colamd.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/colamd/colamd.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/colamd/colamd.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/fortify.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/fortify.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/fortify.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/fortify.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/ini.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/ini.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/ini.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/ini.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_Hash.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_Hash.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_Hash.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_Hash.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_MDO.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_MDO.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_MDO.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_MDO.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_MPS.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_MPS.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_MPS.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_MPS.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_SOS.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_SOS.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_SOS.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_SOS.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_crash.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_crash.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_crash.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_crash.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_lib.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_lib.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_lib.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_lib.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_matrix.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_matrix.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_matrix.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_matrix.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_mipbb.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_mipbb.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_mipbb.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_mipbb.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_params.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_params.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_presolve.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_presolve.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_presolve.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_presolve.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_price.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_price.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_price.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_price.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_pricePSE.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_pricePSE.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_pricePSE.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_pricePSE.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_report.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_report.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_report.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_report.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_rlp.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_rlp.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_rlp.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_rlp.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_scale.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_scale.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_scale.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_scale.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_simplex.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_simplex.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_simplex.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_simplex.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_utils.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_utils.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_utils.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_utils.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_wlp.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_wlp.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/lp_wlp.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/lp_wlp.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/commonlib.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/commonlib.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/commonlib.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/commonlib.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/mmio.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/mmio.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/mmio.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/mmio.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/myblas.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/myblas.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/shared/myblas.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/shared/myblas.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/yacc_read.c">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/yacc_read.c">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/lpsolve/yacc_read.h">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/lpsolve/yacc_read.h">
 			<Option target="liblpsolve"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/affine.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/affine.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/algorithm.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/algorithm.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/bit_operations.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/bit_operations.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/cnf.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cnf.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/constructors.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/constructors.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/cube.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cube.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/decomposition.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/decomposition.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/enumeration.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/enumeration.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest-all.cc">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest-all.cc">
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest_main.cc">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/hash.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/hash.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/implicant.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/implicant.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/isop.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/isop.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/npn.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/npn.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/operations.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/operations.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/partial_truth_table.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/partial_truth_table.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/permutation.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/permutation.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/print.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/print.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/properties.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/properties.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/spectral.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spectral.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/spp.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spp.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/tests.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/tests.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/threshold_identification.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/threshold_identification.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/traits.cpp">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/traits.cpp">
 			<Option target="run_tests_report"/>
 			<Option target="run_tests"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\test\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/cmake/internal_utils.cmake">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/include/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/include/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\include\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/lib/lpsolve/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\lpsolve\"/>
 		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/examples/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/examples/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\examples\"/>
 		</Unit>
 	</Project>

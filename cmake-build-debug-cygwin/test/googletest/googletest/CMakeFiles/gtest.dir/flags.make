@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTH
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/cygdrive/f/Project/kitty/test/googletest/googletest/include -I/cygdrive/f/Project/kitty/test/googletest/googletest 
+CXX_INCLUDES = -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest/include" -I"/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/googletest/googletest" 
 

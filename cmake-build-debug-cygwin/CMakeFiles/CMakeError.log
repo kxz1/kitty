@@ -1,14 +1,14 @@
 Performing C++ SOURCE FILE Test HAS_FCOLOR_DIAGNOSTICS failed with the following output:
-Change Dir: /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp
+Change Dir: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make.exe cmTC_f48ef/fast && /usr/bin/make  -f CMakeFiles/cmTC_f48ef.dir/build.make CMakeFiles/cmTC_f48ef.dir/build
-make[1]: Entering directory '/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f48ef.dir/src.cxx.o
-/usr/bin/c++.exe    -DHAS_FCOLOR_DIAGNOSTICS   -fcolor-diagnostics -o CMakeFiles/cmTC_f48ef.dir/src.cxx.o -c /cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/src.cxx
+Run Build Command(s):/usr/bin/make.exe cmTC_3d5af/fast && /usr/bin/make  -f CMakeFiles/cmTC_3d5af.dir/build.make CMakeFiles/cmTC_3d5af.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3d5af.dir/src.cxx.o
+/usr/bin/c++.exe    -DHAS_FCOLOR_DIAGNOSTICS   -fcolor-diagnostics -o CMakeFiles/cmTC_3d5af.dir/src.cxx.o -c "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/src.cxx"
 c++: error: unrecognized command-line option '-fcolor-diagnostics'
-make[1]: *** [CMakeFiles/cmTC_f48ef.dir/build.make:86: CMakeFiles/cmTC_f48ef.dir/src.cxx.o] Error 1
-make[1]: Leaving directory '/cygdrive/f/Project/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp'
-make: *** [Makefile:141: cmTC_f48ef/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_3d5af.dir/build.make:86: CMakeFiles/cmTC_3d5af.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_3d5af/fast] Error 2
 
 
 Source file was:

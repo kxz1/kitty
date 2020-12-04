@@ -1,4 +1,4 @@
-C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DKITTY_TEST=ON .. -G "CodeBlocks - Unix Makefiles" /cygdrive/f/Project/kitty
+C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DKITTY_TEST=ON .. -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty"
 -- The CXX compiler identification is GNU 10.2.0
 -- Check for working CXX compiler: /usr/bin/c++.exe
 -- Check for working CXX compiler: /usr/bin/c++.exe - works
@@ -25,4 +25,4 @@ C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -D
 -- Performing Test HAS_FTIME_REPORT - Success
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/f/Project/kitty/cmake-build-debug-cygwin
+-- Build files have been written to: /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/cmake-build-debug-cygwin

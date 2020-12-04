@@ -42,8 +42,8 @@ test/CMakeFiles/run_tests.dir/affine.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/affine.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/affine.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/algorithm.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -80,8 +80,8 @@ test/CMakeFiles/run_tests.dir/algorithm.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/algorithm.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/algorithm.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/bit_operations.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -118,8 +118,8 @@ test/CMakeFiles/run_tests.dir/bit_operations.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/bit_operations.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/bit_operations.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/cnf.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -158,8 +158,8 @@ test/CMakeFiles/run_tests.dir/cnf.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/cnf.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cnf.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/constructors.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -196,7 +196,7 @@ test/CMakeFiles/run_tests.dir/constructors.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/constructors.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/constructors.cpp
 test/CMakeFiles/run_tests.dir/cube.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -233,8 +233,8 @@ test/CMakeFiles/run_tests.dir/cube.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/cube.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/cube.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/decomposition.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -274,8 +274,8 @@ test/CMakeFiles/run_tests.dir/decomposition.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/decomposition.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/decomposition.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/enumeration.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -316,7 +316,7 @@ test/CMakeFiles/run_tests.dir/enumeration.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/enumeration.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/enumeration.cpp
 test/CMakeFiles/run_tests.dir/hash.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -353,8 +353,8 @@ test/CMakeFiles/run_tests.dir/hash.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/hash.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/hash.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/implicant.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -393,8 +393,8 @@ test/CMakeFiles/run_tests.dir/implicant.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/implicant.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/implicant.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/isop.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -432,8 +432,8 @@ test/CMakeFiles/run_tests.dir/isop.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/isop.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/isop.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/npn.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -471,8 +471,8 @@ test/CMakeFiles/run_tests.dir/npn.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/npn.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/npn.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/operations.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -509,8 +509,8 @@ test/CMakeFiles/run_tests.dir/operations.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/operations.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/operations.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -548,7 +548,7 @@ test/CMakeFiles/run_tests.dir/partial_truth_table.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/partial_truth_table.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/partial_truth_table.cpp
 test/CMakeFiles/run_tests.dir/permutation.cpp.o
  ../include/kitty/affine.hpp
  ../include/kitty/algorithm.hpp
@@ -591,7 +591,7 @@ test/CMakeFiles/run_tests.dir/permutation.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/permutation.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/permutation.cpp
 test/CMakeFiles/run_tests.dir/print.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -631,8 +631,8 @@ test/CMakeFiles/run_tests.dir/print.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/print.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/print.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/properties.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -671,8 +671,8 @@ test/CMakeFiles/run_tests.dir/properties.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/properties.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/properties.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/spectral.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -712,8 +712,8 @@ test/CMakeFiles/run_tests.dir/spectral.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/spectral.cpp
- /cygdrive/f/Project/kitty/test/utility.hpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spectral.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/utility.hpp
 test/CMakeFiles/run_tests.dir/spp.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -753,7 +753,7 @@ test/CMakeFiles/run_tests.dir/spp.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/spp.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/spp.cpp
 test/CMakeFiles/run_tests.dir/tests.cpp.o
  ../test/googletest/googletest/include/gtest/gtest-death-test.h
  ../test/googletest/googletest/include/gtest/gtest-matchers.h
@@ -775,7 +775,7 @@ test/CMakeFiles/run_tests.dir/tests.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/tests.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/tests.cpp
 test/CMakeFiles/run_tests.dir/threshold_identification.cpp.o
  ../include/kitty/algorithm.hpp
  ../include/kitty/bit_operations.hpp
@@ -825,7 +825,7 @@ test/CMakeFiles/run_tests.dir/threshold_identification.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/threshold_identification.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/threshold_identification.cpp
 test/CMakeFiles/run_tests.dir/traits.cpp.o
  ../include/kitty/detail/constants.hpp
  ../include/kitty/dynamic_truth_table.hpp
@@ -851,4 +851,4 @@ test/CMakeFiles/run_tests.dir/traits.cpp.o
  ../test/googletest/googletest/include/gtest/internal/gtest-port.h
  ../test/googletest/googletest/include/gtest/internal/gtest-string.h
  ../test/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/f/Project/kitty/test/traits.cpp
+ /cygdrive/c/Users/lberc/OneDrive - Politecnico di Torino/Documents/kitty/test/traits.cpp
