@@ -318,8 +318,16 @@ std::vector<bool>inverted_variables(ttu.num_vars(),false);
       delete_lp(lp);
     }
 
+ auto ss=inverted_variables.size();
+  for ( uint64_t var = 0; var <inverted_variables.size(); var++ )
+  {
+    if (inverted_variables.at(var))
+    {
+      linear_form.at(inverted_variables.size())=linear_form.at(inverted_variables.size())-linear_form.at(var);
+      linear_form.at(var)=-linear_form.at(var);
 
-
+    }
+  }
 
 
 
