@@ -118,7 +118,7 @@ std::vector<bool>inverted_variables(ttu.num_vars(),false);
         {eequal=true;}
 
         }
-        if (neg_unate and pos_unate) {return false;}
+        if (neg_unate && pos_unate) {return false;}
         if (neg_unate){
           inverted_variables.at(i)=true;
           for (uint64_t bit = 0; bit < ( 2 << ( numvars - 1 ) ); bit=bit+2*pow(2,i)){
@@ -294,13 +294,13 @@ std::vector<bool>inverted_variables(ttu.num_vars(),false);
 
 
       /* objective value */
-      printf("Objective value: %f\n", get_objective(lp));
+      //printf("Objective value: %f\n", get_objective(lp));
 
       /* variable values */
       get_variables(lp, row);
       for(j = 0; j < Ncol; j++)
       {
-        printf( "%s: %f\n", get_col_name( lp, j + 1 ), row[j] );
+        //printf( "%s: %f\n", get_col_name( lp, j + 1 ), row[j] );
         linear_form.push_back(row[j]);
       }
 

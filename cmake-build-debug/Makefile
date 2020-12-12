@@ -260,6 +260,58 @@ gf16_inverse/fast:
 	$(MAKE) $(MAKESILENT) -f examples/CMakeFiles/gf16_inverse.dir/build.make examples/CMakeFiles/gf16_inverse.dir/build
 .PHONY : gf16_inverse/fast
 
+#=============================================================================
+# Target rules for targets named run_tests_report
+
+# Build rule for target.
+run_tests_report: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 run_tests_report
+.PHONY : run_tests_report
+
+# fast build rule for target.
+run_tests_report/fast:
+	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests_report.dir/build.make test/CMakeFiles/run_tests_report.dir/build
+.PHONY : run_tests_report/fast
+
+#=============================================================================
+# Target rules for targets named run_tests
+
+# Build rule for target.
+run_tests: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 run_tests
+.PHONY : run_tests
+
+# fast build rule for target.
+run_tests/fast:
+	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/run_tests.dir/build.make test/CMakeFiles/run_tests.dir/build
+.PHONY : run_tests/fast
+
+#=============================================================================
+# Target rules for targets named gtest_main
+
+# Build rule for target.
+gtest_main: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 gtest_main
+.PHONY : gtest_main
+
+# fast build rule for target.
+gtest_main/fast:
+	$(MAKE) $(MAKESILENT) -f test/googletest/googletest/CMakeFiles/gtest_main.dir/build.make test/googletest/googletest/CMakeFiles/gtest_main.dir/build
+.PHONY : gtest_main/fast
+
+#=============================================================================
+# Target rules for targets named gtest
+
+# Build rule for target.
+gtest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 gtest
+.PHONY : gtest
+
+# fast build rule for target.
+gtest/fast:
+	$(MAKE) $(MAKESILENT) -f test/googletest/googletest/CMakeFiles/gtest.dir/build.make test/googletest/googletest/CMakeFiles/gtest.dir/build
+.PHONY : gtest/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -269,11 +321,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... gf16_inverse"
+	@echo "... gtest"
+	@echo "... gtest_main"
 	@echo "... isop"
 	@echo "... liblpsolve"
 	@echo "... npn_enumeration"
 	@echo "... npn_enumeration_map"
 	@echo "... npn_random"
+	@echo "... run_tests"
+	@echo "... run_tests_report"
 	@echo "... spectral_enumeration"
 	@echo "... spectral_enumeration_file"
 	@echo "... spectral_enumeration_fuller"

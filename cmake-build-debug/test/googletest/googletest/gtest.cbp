@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\test\;CMake Files\test\googletest\;CMake Files\test\googletest\googletest\;CMake Files\test\googletest\googletest\cmake\;CMake Files\include\;CMake Files\lib\;CMake Files\lib\lpsolve\;CMake Files\examples\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/cygdrive/f/Project/kitty/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest/include"/>
+					<Add directory="/cygdrive/f/Project/kitty/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/include/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\include\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/lib/lpsolve/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\lpsolve\"/>
+		</Unit>
+		<Unit filename="/cygdrive/f/Project/kitty/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
