@@ -347,24 +347,6 @@ std::vector<bool>inverted_variables(ttu.num_vars(),false);
 
 
 
-std::string int_to_binary_string(uint64_t i){
-  std::string s;
-  while(! i==0) {s=(i%2==0 ?"0":"1")+s; i/=2;}
-  return s;
-}
-
-std::vector<uint64_t> variables(const uint64_t& variable_number, const uint64_t& index){
-
-  dynamic_truth_table variable_tt;
-  //=create<dynamic_truth_table>(variable_number);
-  create_from_binary_string(variable_tt,int_to_binary_string(index));
-  std::vector<uint64_t> variables;
-
-  for(int i=0; i<pow(2,variable_number);i++){
-
-    variables.push_back(get_bit(variable_tt,i));
-  }
-}
 
 
 
