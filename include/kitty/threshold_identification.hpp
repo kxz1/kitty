@@ -270,7 +270,7 @@ std::vector<bool>inverted_variables(ttu.num_vars(),false);
 
       /* just out of curiosity, now show the model in lp format on screen */
       /* this only works if this is a console application. If not, use write_lp and a filename */
-      write_LP(lp, stdout);
+      //write_LP(lp, stdout);
       /* write_lp(lp, "model.lp"); */
 
       /* I only want to see important messages on screen while solving */
