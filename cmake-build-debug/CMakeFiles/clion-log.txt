@@ -1,4 +1,4 @@
-C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug cmake -DKITTY_TEST=ON .. -G "CodeBlocks - Unix Makefiles" /cygdrive/f/Project/kitty
+C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/f/Project/kitty
 -- The CXX compiler identification is GNU 10.2.0
 -- Check for working CXX compiler: /usr/bin/c++.exe
 -- Check for working CXX compiler: /usr/bin/c++.exe - works
@@ -15,14 +15,6 @@ C:\Users\lberc\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -D
 -- Detecting C compiler ABI info - done
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Found PythonInterp: /usr/bin/python3.6 (found version "3.6.10") 
--- Looking for pthread.h
--- Looking for pthread.h - found
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
--- Found Threads: TRUE  
--- Performing Test HAS_FTIME_REPORT
--- Performing Test HAS_FTIME_REPORT - Success
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /cygdrive/f/Project/kitty/cmake-build-debug

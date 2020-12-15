@@ -42,12 +42,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CMakeTestCompilerCommon.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CMakeTestRCCompiler.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CMakeUnixFindMake.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckCSourceCompiles.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckCXXCompilerFlag.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckCXXSourceCompiles.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckIncludeFile.c.in"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckIncludeFile.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/CheckLibraryExists.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/ADSP-DetermineCompiler.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
@@ -96,10 +92,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/FindPackageHandleStandardArgs.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/FindPackageMessage.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/FindPythonInterp.cmake"
-  "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/FindThreads.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Internal/CMakeCheckCompilerFlag.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Internal/FeatureTesting.cmake"
   "/cygdrive/c/Users/lberc/AppData/Local/JetBrains/CLion2020.2/cygwin_cmake/share/cmake-3.17.3/Modules/Platform/CYGWIN-Determine-CXX.cmake"
@@ -119,9 +111,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../include/CMakeLists.txt"
   "../lib/CMakeLists.txt"
   "../lib/lpsolve/CMakeLists.txt"
-  "../test/CMakeLists.txt"
-  "../test/googletest/googletest/CMakeLists.txt"
-  "../test/googletest/googletest/cmake/internal_utils.cmake"
   )
 
 # The corresponding makefile is:
@@ -141,8 +130,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "lib/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lib/lpsolve/CMakeFiles/CMakeDirectoryInformation.cmake"
   "examples/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "test/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "test/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -157,8 +144,4 @@ set(CMAKE_DEPEND_INFO_FILES
   "examples/CMakeFiles/spectral_enumeration.dir/DependInfo.cmake"
   "examples/CMakeFiles/npn_enumeration_map.dir/DependInfo.cmake"
   "examples/CMakeFiles/gf16_inverse.dir/DependInfo.cmake"
-  "test/CMakeFiles/run_tests_report.dir/DependInfo.cmake"
-  "test/CMakeFiles/run_tests.dir/DependInfo.cmake"
-  "test/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "test/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )

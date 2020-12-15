@@ -5,7 +5,7 @@
 		<Option title="liblpsolve"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\test\;CMake Files\test\googletest\;CMake Files\test\googletest\googletest\;CMake Files\test\googletest\googletest\cmake\;CMake Files\include\;CMake Files\lib\;CMake Files\lib\lpsolve\;CMake Files\examples\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\include\;CMake Files\lib\;CMake Files\lib\lpsolve\;CMake Files\examples\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/cygdrive/f/Project/kitty/cmake-build-debug/lib/lpsolve"/>
@@ -233,15 +233,6 @@
 		</Unit>
 		<Unit filename="/cygdrive/f/Project/kitty/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
-		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\test\"/>
-		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
-		</Unit>
-		<Unit filename="/cygdrive/f/Project/kitty/test/googletest/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
 		</Unit>
 		<Unit filename="/cygdrive/f/Project/kitty/include/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\include\"/>
