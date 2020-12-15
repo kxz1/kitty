@@ -37,6 +37,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/cygdrive/f/Project/kitty/cmake-build-debug/include/cmake_install.cmake")
   include("/cygdrive/f/Project/kitty/cmake-build-debug/lib/cmake_install.cmake")
   include("/cygdrive/f/Project/kitty/cmake-build-debug/examples/cmake_install.cmake")
+  include("/cygdrive/f/Project/kitty/cmake-build-debug/test/cmake_install.cmake")
 
 endif()
 

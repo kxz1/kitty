@@ -18,3 +18,11 @@
 /cygdrive/f/Project/kitty/cmake-build-debug/examples/CMakeFiles/spectral_enumeration.dir
 /cygdrive/f/Project/kitty/cmake-build-debug/examples/CMakeFiles/npn_enumeration_map.dir
 /cygdrive/f/Project/kitty/cmake-build-debug/examples/CMakeFiles/gf16_inverse.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/CMakeFiles/run_tests_report.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/CMakeFiles/run_tests.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/CMakeFiles/edit_cache.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/CMakeFiles/gtest_main.dir
+/cygdrive/f/Project/kitty/cmake-build-debug/test/googletest/googletest/CMakeFiles/gtest.dir
